@@ -1,0 +1,40 @@
+{
+  "name": "tune",
+  "displayName": "tune",
+  "description": "Cross-Cultural Writing System",
+  "license" : "Apache 2.0",
+  "publisher": "drumworkteam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drumworkteam/tune.git"
+  },
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "configurationDefaults": {
+      "[tune]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "editor.fontFamily": "ToneBell",
+        "editor.fontSize": 32,
+        "editor.lineHeight": 26
+      }
+    },
+    "languages": [{
+      "id": "tune",
+      "aliases": ["Tune", "tune"],
+      "extensions": [".tune"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "tune",
+      "scopeName": "source.tune",
+      "path": "./syntaxes/tune.tmLanguage.json"
+    }]
+  },
+  "version": "1.0.0"
+}

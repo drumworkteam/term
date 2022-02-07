@@ -1,0 +1,39 @@
+tune,english
+ma,I/me
+maya,we/us inclusive
+mawa,we/us exclusive (doesn't include you)
+mu,my
+muya,ours inclusive
+muwa,ours exclusive
+ga,you
+gaya,you all
+gu,your
+guya,yours
+da,they/it
+daya,they all
+du,their
+duya,their all
+la,this
+laya,these
+va,that
+vaya,those
+lo,the
+ko,a
+mo,here
+do,there
+he,hey
+ye,yay
+ya,yes
+na,no
+mi,who
+di,what
+diya,whatever
+gi,where
+giya,wherever
+vi,when
+li,why
+si,how
+fi,if
+ka,ifmatch/then
+ro,ifnotmatch/otherwise
+ba,because
