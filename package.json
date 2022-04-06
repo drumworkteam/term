@@ -19,9 +19,7 @@
       "[tune]": {
         "editor.wordWrap": "on",
         "editor.quickSuggestions": false,
-        "editor.fontFamily": "ToneBell",
-        "editor.fontSize": 32,
-        "editor.lineHeight": 26
+        "editor.fontFamily": "ToneBell"
       }
     },
     "languages": [{

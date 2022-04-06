@@ -6,11 +6,15 @@
 <br/>
 <br/>
 
+<p align='center'>
+  <img src='https://github.com/drumworkteam/tune/blob/make/view/view.svg?raw=true' height='312'/>
+</p>
+
 <h3 align='center'>
-  <img src='https://github.com/drumworkteam/tune/blob/make/tune.png?raw=true' width='500'/>
+  tune
 </h3>
 <p align='center'>
-  The Grammar of Tune
+  An Intermediate Constructed Language
 </p>
 
 <br/>
