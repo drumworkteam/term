@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/drumworkteam/tune/blob/make/view/view.svg?raw=true' height='312'/>
+  <img src='https://github.com/drumworkteam/tune/blob/make/view/make.svg?raw=true' height='312'/>
 </p>
 
 <h3 align='center'>
