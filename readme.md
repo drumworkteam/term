@@ -7,7 +7,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/drumworkteam/tune/blob/make/view/make.svg?raw=true' height='312'/>
+  <img src='https://github.com/teamdrumwork/tune/blob/make/view/make.svg?raw=true' height='312'/>
 </p>
 
 <h3 align='center'>
@@ -31,11 +31,11 @@ One goal of tune is to create a language which can be used for programming (usin
 
 First we will outline the phonology in more detail so you know what to expect and how to write the words on a typical keyboard in ASCII. Next, we will go into some of the basic word forms and show you how to construct some basic words. Finally, we will show how we can build up the lexicon to eventually include all of the millions of English words in existence, from molecules to life forms to locations, etc..
 
-See the [contributing guide](https://github.com/drumworkteam/tune/blob/make/.github/contributing.md) for the intricate details on how things work, and how to contribute.
+See the [contributing guide](https://github.com/teamdrumwork/tune/blob/make/.github/contributing.md) for the intricate details on how things work, and how to contribute.
 
 ### Knowledge Representation
 
-All things are actually a `xix` under the hood (pronounced "sheesh", see [call script](https://github.com/drumworkteam/call) for pronunciation details). In English we are calling this a "shift" or "tropon", an action-object. The `xix` is then divided into `xiq` ("shing") "action" and `xaq` ("shaung") "object". A generic "shift type" is a `kix` "keesh", an action type being a `kiq` ("king") and an object type a `kaq` ("kong").
+All things are actually a `xix` under the hood (pronounced "sheesh", see [call script](https://github.com/teamdrumwork/call) for pronunciation details). In English we are calling this a "shift" or "tropon", an action-object. The `xix` is then divided into `xiq` ("shing") "action" and `xaq` ("shaung") "object". A generic "shift type" is a `kix` "keesh", an action type being a `kiq` ("king") and an object type a `kaq` ("kong").
 
 Can call a "fox" a "small wild canine". Can call a "canine" a "carnivorous animal". Can call an animal a "living structure". So a "fox" becomes a "small wild carnivorous living structure". But that is too long of a name, so for common stuff you give it a short name, in our case a 5-letter c-v-c-v-c word. The question is, what do you pick to give a common name to?
 
@@ -176,7 +176,7 @@ You can use them like:
 
 ### Basic Sentences
 
-_Note: A more up-to-date translation of some sentences should be found [here](https://github.com/drumworkteam/tune/blob/make/list/sentence/full.csv)._
+_Note: A more up-to-date translation of some sentences should be found [here](https://github.com/teamdrumwork/tune/blob/make/list/sentence/full.csv)._
 
 Sentences follow the SVO subject-verb-object format. Modifiers/features/adjectives precede the main verb or noun.
 
@@ -302,4 +302,4 @@ limitations under the License.
 
 <h3 id="mount">DrumWork</h3>
 
-The tune language is being developed by the folks at [DrumWork](https://drum.work), a California-based project for helping humanity master information and computation. DrumWork started off in the winter of 2008 as a spark of an idea, to formalizing the work 10 years later in the winter of 2018, now just beginning its development phases. DrumWork funds the development here. It is entirely bootstrapped by working full time and running [Etsy](https://etsy.com/shop/drumworkteam) and [Amazon](https://www.amazon.com/s?rh=p_27%3AMount+Build) shops. Also find us on [Facebook](https://www.facebook.com/drumworkteam), [Twitter](https://twitter.com/drumworkteam), and [LinkedIn](https://www.linkedin.com/company/drumworkteam). Check out our other GitHub projects as well!
+The tune language is being developed by the folks at [DrumWork](https://drum.work), a California-based project for helping humanity master information and computation. DrumWork started off in the winter of 2008 as a spark of an idea, to formalizing the work 10 years later in the winter of 2018, now just beginning its development phases. DrumWork funds the development here. It is entirely bootstrapped by working full time and running [Etsy](https://etsy.com/shop/teamdrumwork) and [Amazon](https://www.amazon.com/s?rh=p_27%3AMount+Build) shops. Also find us on [Facebook](https://www.facebook.com/teamdrumwork), [Twitter](https://twitter.com/teamdrumwork), and [LinkedIn](https://www.linkedin.com/company/teamdrumwork). Check out our other GitHub projects as well!
