@@ -49,11 +49,11 @@ All sounds and pronunciations are written using [call script](https://github.com
 
 Here, we will write the consonants and vowels we use in Tune, which is using call script, and will write a word next to each letter to show the key sound that the letter represents. After reading through these, you should know how to write a pronunciation using your keyboard. That is, you can write a word in Tune, which inherently includes how to pronounce it!
 
-In Tune, there are 19 **consonants** used. They are:
+In Tune, there are 22 **consonants** used. They are:
 
 - `m`: "mark" "mol"
 - `n`: "note" "nag"
-- `q`: the `-ng` in "sing" "fiq"
+- `q`: the `-ng` in "sing"
 - `g`: "gift" "gap"
 - `d`: "deed" "dim"
 - `b`: "band" "ban"
@@ -62,28 +62,59 @@ In Tune, there are 19 **consonants** used. They are:
 - `k`: "king" "kez"
 - `h`: "heal" "hup"
 - `s`: "soul" "sov"
-- `l`: "love" "lit"
-- `r`: "rat" but with spanish, arabic, or indian accent "rot"
-- `w`: "wave" "wav"
-- `y`: "yard" "yok"
-- `z`: "zone" "zeg"
 - `f`: "fire" "fod"
 - `v`: "vibe" "vab"
+- `z`: "zone" "zeg"
+- `j`: "measure"
 - `x`: "ship", the "sh" sound "xip"
+- `c`: "thor"
+- `C`: "this"
+- `w`: "wave" "wav"
+- `y`: "yard" "yok"
+- `l`: "love" "lit"
+- `r`: "rat" but with spanish, arabic, or indian accent "rot"
 
 The consonants that are missing (i.e. that Tune does not use) are things like the Hebrew/Arabic harsh "h" sound, the ejective (hard) consonants like in Georgian, the stop consonants like in Korean, or the click sounds like in some African languages. Also, we don't use the "j" sound (like in "measure"), or the "th" sound (represented as "c" in call script), either like in the word "the" or "thing".
 
 Then we have the **vowels**. There are 5 vowels used in Tune. They are:
 
-- `a`: "call"
-- `e`: "make"
 - `i`: "seat"
+- `e`: "make"
+- `a`: "call"
 - `o`: "hold"
 - `u`: "tool"
 
 We have left out as many as 10 or more vowel sounds used by various other languages, focusing only on these extremely distinct vowel sounds.
 
-In the end, we have 19 consonants and 5 vowels, for a total of 24 sounds.
+In the end, we have 22 consonants and 5 vowels, for a total of 27 sounds. Here is the alphabetical order.
+
+- `i`: 1
+- `e`: 2
+- `a`: 3
+- `o`: 4
+- `u`: 5
+- `m`: 6
+- `n`: 7
+- `q`: 8
+- `g`: 9
+- `d`: 10
+- `b`: 20
+- `p`: 30
+- `t`: 40
+- `k`: 50
+- `h`: 60
+- `s`: 70
+- `f`: 80
+- `v`: 90
+- `z`: 100
+- `j`: 200
+- `x`: 300
+- `c`: 400
+- `C`: 500
+- `w`: 600
+- `y`: 700
+- `l`: 800
+- `r`: 900
 
 ## Word Formation Rules
 
@@ -182,7 +213,7 @@ Here is a table of the known common word suffixes in Tune.
 | `-ihi` | future tense like "will create" |
 | `-iho` | currently active tense "-ing" like "creating" |
 | `-wi` | actor of the verb/action like "creator" or "engineer" |
-| `-yu` | receiver of the verb/action like "createe" |
+| `-wo` | receiver of the verb/action like "createe" |
 | `-yo` | converts words to adverbs (verb/action modifiers) |
 | `-vula` | result (-tion) |
 | `-xama` | the state of being x (-acy, -ness, -ship) |
@@ -221,7 +252,7 @@ Here is a table of the known common word suffixes in Tune.
 | `-mavo` | loving (-phile) |
 | `-pati` | do like |
 
-There is also an _infix_, `-wi-`, which is used to separate words in a long word when there is ambiguity where one ends and the next begins. This sound `wi` is not used in any word by itself other than in this context.
+For names, use `-e` or `-u`. For long words, use a `:` colon to separate them.
 
 Here are some common prefixes.
 
