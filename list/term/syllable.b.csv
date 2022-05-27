@@ -36,7 +36,6 @@ dir,biton
 dis,number
 dit,distance (tele-)
 dob,two
-dof,
 dol,o vowel
 dom,"area or state of being (-dom)"
 dop,value
@@ -102,11 +101,9 @@ hum,width
 kam,five
 kan,"ability (-ability)"
 kaq,object type
-kaq,object type
 kazi,do
 kazo,causal
 kazovana,causality
-kaza,causation
 kaza,cause
 keg,node
 kev,hate
@@ -172,7 +169,7 @@ mis,"most (-est)"
 mod,twelve
 mon,"featuring x"
 mor,be
-mox,"the model of the action (e.g. the transform, the create)"
+mox,"the model of the action (e.g. the transform
 mud,life
 muf,height
 mul,size
@@ -217,6 +214,7 @@ puk,eleven
 rad,cycle
 ran,subtract
 ras,in
+raj,thirteen
 rat,"the x action process"
 rav,"reminiscent of (-esque)"
 ref,bottom
@@ -248,7 +246,6 @@ sob,death
 sof,computation
 sol,soul
 som,s letter
-sud,center
 sud,somewhat (pseudo-)
 sun,probable
 sup,above (super)
@@ -270,7 +267,7 @@ tub,"over (overburden)"
 tul,"it's a tool (zipper)"
 tut,t letter
 vag,material/substance
-van,"having the nature of (-ivity, -ity, -ance)"
+van,"having the nature of (-ivity
 vav,v letter
 vax,ignorance
 ved,"study or science of (-ology)"
@@ -304,12 +301,11 @@ wuv,on
 wux,system
 xab,six
 xag,choice/option
-xam,"the state of being x (-acy, -ness, -ship)"
+xam,"the state of being x (-acy
 xaq,object
 xav,wisdom
 xax,love
 xek,x letter
-xez,
 xiq,action
 xit,"shaped"
 xiv,destroy
@@ -323,36 +319,191 @@ xux,change
 yak,exponent
 yap,all (omni-)
 yaq,non-foundation
-yeg,
 yev,off
-yex,
 yik,reduce
 yip,"resembling (-istic)"
 yiq,foundation
-yiz,
 yog,practice of focusing on x (-ism)
 yov,sort
 yox,possible
 yuk,y letter
-yuq,
 yuz,use
 zak,z letter
-zaq,
 zaz,angle
-zeg,
 zen,one
 zev,path
-zex,
 zigo,equal (iso-)
 ziga,equivalence
 zip,graph
 ziq,q letter
 zir,"pertaining to x (pleasantry)"
-ziz,
 zok,link
 zov,try
 zox,sense
-zuk,
 zun,"-wise"
-zuq,
 zuz,repeat
+cif,theif
+tic,fourteen
+goC,fifteen
+dof,
+xez,
+yeg,
+yex,
+yiz,
+yuq,
+zaq,
+zeg,
+zex,
+ziz,
+zuk,
+zuq,
+sej,
+Coc,
+rac,
+cin,
+xeq,
+deC,
+cuc,
+dic,
+noC,
+com,
+cef,
+wez,
+muC,
+sac,
+Cal,
+Cen,
+Ced,
+cem,
+Cuj,
+Cub,
+ful,
+neC,
+reC,
+luC,
+mec,
+lub,
+mos,
+seC,
+fuj,
+xoz,
+dac,
+Cos,
+yaz,
+voq,
+rus,
+buC,
+Cum,
+goq,
+haC,
+Cod,
+lij,
+Caj,
+Cor,
+cob,
+huC,
+Cuf,
+loc,
+liC,
+can,
+lec,
+maC,
+cas,
+baf,
+ceC,
+ruc,
+cej,
+Ces,
+biC,
+roj,
+duc,
+kak,
+faj,
+kuq,
+veq,
+cun,
+huj,
+maj,
+wag,
+wug,
+nac,
+fuC,
+CaC,
+mub,
+rej,
+CiC,
+car,
+hec,
+hoc,
+CuC,
+faC,
+tep,
+coj,
+cud,
+Cam,
+Cib,
+hos,
+Cul,
+buj,
+Con,
+woq,
+Cim,
+Cec,
+bij,
+baC,
+reb,
+miC,
+foc,
+Cij,
+xig,
+baj,
+fiC,
+cus,
+sic,
+Cab,
+nuc,
+hiC,
+laC,
+coC,
+wur,
+noj,
+nef,
+dej,
+geq,
+ceb,
+cad,
+seb,
+laj,
+cof,
+boc,
+haj,
+col,
+cur,
+cis,
+fec,
+doC,
+hij,
+nic,
+weq,
+cac,
+kuk,
+doj,
+cid,
+pup,
+soC,
+suc,
+Caf,
+muj,
+roC,
+ric,
+bec,
+luj,
+zog,
+soj,
+nej,
+zik,
+moc,
+kaz,
+lib,
+fij,
+mij,
