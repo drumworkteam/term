@@ -6,7 +6,6 @@ frem,frame
 durp,entropy
 spes,space
 dram,drama
-swek,involution
 twam,partition
 titx,teach
 sweq,order
@@ -74,7 +73,6 @@ srif,cone
 sram,handle
 grav,gravity
 bluz,blue
-sneb,
 prid,high
 prem,associativity
 spen,combination
@@ -140,7 +138,6 @@ vrok,head
 slad,resolve
 salv,solve
 glun,generate
-snun,time
 plos,extremum
 slur,slur
 blon,alternate
@@ -152,7 +149,6 @@ txib,max
 klag,distributivity
 tatx,touch
 snus,also
-xmid,commutativity
 blal,about
 snas,condition
 txod,beyond
@@ -222,12 +218,10 @@ txip,cheap
 kliv,and (logic)
 mirt,meter
 frad,concave
-smen,curve
 spib,variable
 drul,turquoise
 ples,place
 ciqk,think
-blim,angle
 brus,contiguous
 brax,brush
 salk,silk
@@ -258,17 +252,15 @@ nart,night
 halp,elbow
 frun,domain (possible values)
 flen,average
-grig,drop
 grin,green
 gloC,knee
 mitx,bone
 skan,skin
 skil,skill
 rund,round
-rast,face
+rast,face (human)
 crod,hair
 lasp,mouth
-spal,tooth
 dres,back (body)
 klek,never
 srod,low
@@ -279,18 +271,15 @@ twaj,arm
 zard,wizard (good magician)
 wird,weird
 blad,blood
-warf,head
+warf,head (animal)
 cral,crawl
 mesk,feather
 prun,semen
 fidj,spine
 corc,stomach
 xles,placenta
-xart,embryo
 valv,valve
 yurz,embryo
-dinz,gill
-srec,gullet
 lumz,fetus
 surk,trachea
 sotx,tumor
@@ -302,7 +291,6 @@ txaj,eyebrow
 sorc,eyelash
 dast,dust
 sefk,dung
-drum,elbow
 hesk,cough
 fost,hoof
 Cadj,knuckle
@@ -348,7 +336,6 @@ briC,breath
 pras,star
 txal,earth
 midj,sky
-hest,land
 bitx,beach
 djiC,scene
 skar,scar
@@ -361,12 +348,10 @@ kurv,curve
 karb,carbohydrate
 ston,stone
 nedj,butterfly
-notx,face
 faks,fox
 hulp,owl
 halk,hawk
 brik,eagle
-luqk,art
 nurp,cloud
 humz,cactus
 bork,lizard
@@ -393,15 +378,10 @@ Cuft,beauty
 spub,cave
 gras,grass
 yamp,ramp
-birt,fruit
-plim,seed
-lirf,leaf
 latx,universe
-bimd,branch
 bred,braid
 bren,brain
 blem,blame
-blij,light
 gost,ghost
 biqk,deer
 coft,rabbit
@@ -410,7 +390,6 @@ crib,rainbow
 grax,metal
 slux,air
 nigj,basket
-spij,path
 xmur,way
 xrum,mushroom
 step,step
@@ -453,7 +432,6 @@ barc,lake
 pled,water
 watx,watch
 xmoj,flow
-horp,wave
 lamp,lamp
 smil,smile
 letx,milk
@@ -465,30 +443,22 @@ smiC,summer
 mors,bud
 xrab,shrub
 xlon,ball
-muft,number
 sist,harmony
 nord,stillness
 bard,vision
 valt,vault
 vroz,beaver
 xmad,warmth
-fitx,wood
 litx,wing
-xlij,base
-forf,line
 narf,happiness
 mird,sweep
 cros,gift
 borp,guide
-sark,whole
-hold,hold
 cruf,joy
 mutx,bright
 harg,wonderful
 sofk,divinity
 Cusp,dove
-negz,paper
-migz,pen
 sral,book
 malp,symbol
 nist,ocean
@@ -504,7 +474,6 @@ hudj,desert (place)
 Cemz,rhythm
 glol,glow
 proj,matter
-snid,open
 pent,paint
 marv,marvel
 glas,glass
@@ -513,19 +482,16 @@ turt,turtle
 gles,glacier
 djal,essence
 hatx,notion
-vlag,side
 fant,fountain
 task,task (something to do)
 stek,stake (in the ground)
 stal,stall (hold still)
-wurd,word
 band,bond
 skor,score
 nezd,discovery
 fosk,similarity
 ritx,reach
 blis,bliss
-vlug,position
 blip,beep sound
 sogz,material
 fors,ornament
@@ -537,8 +503,6 @@ cruC,berry
 lenz,apple
 dral,draw
 djos,cover
-maqk,cloth
-sund,boat
 somz,flight
 slej,splash
 mosk,womb
@@ -546,7 +510,6 @@ hurt,hurt
 txiz,money
 bliq,decoration
 txik,cheek
-fasp,clay
 wurm,worm
 flaj,intersection
 sekt,sect/division
@@ -561,9 +524,7 @@ barv,town
 xmin,completeness
 rozd,potential
 krim,cream
-kriq,consciousness
 wark,awareness
-lumd,garden
 spir,spear
 cast,tiger
 ramp,romp
@@ -572,17 +533,14 @@ criC,neighbor
 fart,fart
 kolt,horse
 horn,horn
-bloC,country
 hard,honey
 fluj,spice
 gurt,sweetness
 dalt,day
-roft,ink
 bond,phone
 fliq,fling (throw with an extra force)
 stim,steam
 stil,steal
-murg,pillow
 spuf,spoof
 fric,feeling
 fend,center
@@ -614,7 +572,6 @@ swan,swan
 norc,north
 west,waist
 kedj,cage
-sors,source
 sand,sand
 lord,lord
 lazd,adult
@@ -636,7 +593,6 @@ klon,clone
 monk,monk
 gren,grain
 gres,grace
-liqk,link
 slop,slope
 prod,prod
 gruv,groove
@@ -659,6 +615,46 @@ host,host
 slip,sleep
 murd,bison
 harc,hearth
+swek,
+sneb,
+snun,
+xmid,
+smen,
+blim,
+grig,
+spal,
+xart,
+dinz,
+srec,
+hest,
+notx,
+luqk,
+birt,
+plim,
+lirf,
+bimd,
+blij,
+spij,
+horp,
+muft,
+fitx,
+xlij,
+forf,
+sark,
+hold,
+negz,
+migz,
+snid,
+vlag,
+vlug,
+maqk,
+sund,
+fasp,
+lumd,
+bloC,
+roft,
+murg,
+sors,
 lalz,
 plaj,
 degz,

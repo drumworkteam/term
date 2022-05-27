@@ -44,7 +44,7 @@ dop,value
 dud,extend
 duk,"thing (hatchling)"
 dun,right
-dur,still
+dur,
 dus,length
 fab,include
 faf,fast
@@ -98,7 +98,7 @@ hon,focus
 hor,out
 hub,x-axis
 huf,h letter
-hul,void
+hul,
 hum,width
 kam,five
 kan,"ability (-ability)"
@@ -157,14 +157,6 @@ mek,make
 men,main
 mes,different
 mib,acceleration
-mibi,accelerate
-mibiha,accelerated
-mibiho,accelerating
-miba,acceleration
-mibaya,accelerations
-mibitula,accelerator
-mibitulaya,accelerators
-mibamirta,accelerometer
 mif,set
 mim,i vowel
 mis,"most (-est)"
@@ -201,7 +193,7 @@ not,message
 nud,representation
 nun,nothing
 nur,transform
-nus,hold
+nus,
 pag,undo
 pap,gas
 paq,response
@@ -254,7 +246,7 @@ sup,above (super)
 sur,divide
 sus,beyond (extra- or hyper-)
 tan,before (pre-)
-tap,subtract
+tap,top
 taq,false
 tix,boolean
 tat,y-axis
@@ -264,7 +256,6 @@ tev,"relates to (affectional)"
 tiq,true
 tit,texture
 ton,tone/sound
-top,top
 tub,"over (overburden)"
 tul,"it's a tool (zipper)"
 tut,t letter
