@@ -82,97 +82,12 @@ The words like "the", "a", "this", and "that" are focusers. They focus attention
 
 ### Representing I, you, and it
 
-These words are so common they also dropped the `q` sound at the end.
-
-- `do`: I, me, or myself.
-- `bo`: You.
-- `go`: It.
-- `wo`: We.
-- `yo`: You all.
-- `mo`: Them.
-- `go vako`: female
-- `go hako`: male
-
-### Basic Nouns
-
-The following is an intro list of nouns so you can see how sentences are formed. Remember, all nouns are manifestations of the underlying `xix`, so these are the `xix` forms and need to be prefixed by `xa`.
-
-- `xudip`: tree
-- `xulif`: leaf
-- `xusid`: seed
-- `xubin`: fruit
-- `xurak`: rock
-- `xuroz`: flower
-
-### Basic Verbs
-
-The following is an intro list of verbs so you can soon see how sentences are formed. Remember, all verbs are manifestations of the underlying `xix`, so these are the `xix` forms and need to be prefixed by `xi`.
-
-- `xum`: live
-- `ris`: rise
-- `mad`: flow
-- `sim`: be
-- `mek`: make
-- `hov`: have
-- `xinax`: shine
-- `gorom`: grow
-- `nezal`: smell
-- `gesol`: see
-- `kuxar`: hear
-- `lison`: listen
-
-### Basic Noun Modifiers
-
-These are typically known as adjectives. The following is an intro list of adjectives so you can see how sentences are formed. All adjectives are manifestations of the underlying `xix`, so these are the `xix` forms and need to be prefixed by `xu`.
-
-- `gab`: big
-- `bag`: small
-- `nub`: new
-- `bun`: old
-
-Some word endings are:
-
-- `lix`: `x-ish` (it kind of has this property)
-- `kom`: `x-al` (like)
-- `dis`: `x-ive` (producing)
-- `fol`: `x-ful` (full)
-- `kan`: `x-able` (to be able)
-- `pak`: `x-ing` (in process)
-- `lof`: `x-less` (without)
-- `hev`: (having/with)
-- `deq`: (from/of)
-- `xan`: `x-tion`, `x-ment`, `x-age`, `x-al`, and `x-ure` (result)
-- `pum`: `x-er` (action performer)
-- `mup`: `x-ee` and `x-ant` (action receiver)
-- `xak`: `x-ery` (craft)
-
-You can use them like:
-
-- `xomadolixo` (reddish)
-- `dipakomo` (tree-like)
-- `solaridiso` (sunlight producing)
-- `karelifolo` (careful)
-- `mekikano` (makeable)
-- `rasipako` (processing)
-- `karelilofo` (careless)
-- `pelomahevo` (hairy)
-
-### Basic Verb Modifiers
-
-- `venoha`: eventually
-
-### Basic Colors
-
-### Basic Logic
-
-- `vi`: and
-- `vu`: or
-- `pi`: if
-- `pu`: then
-- `na`: not
-- `ma`: all
-- `ti`: true
-- `ta`: false
+- `ma`: I, me, or myself.
+- `ga`: You.
+- `da`: It.
+- `maya`: We.
+- `gaya`: You all.
+- `daya`: Them.
 
 ### Basic Sentences
 
@@ -197,86 +112,6 @@ xonano vi xomano simi yu do gezi
 ```
 la sawasa madiha
 ```
-
-### Animate Material Beings
-
-All of these start with `xum`, meaning "life" or "to live", followed by `a`, so `xuma`. They are described uniquely mostly by adding 1, 2, 3, or 4 suffixes onto `xum`.
-
-- `xumaman`: woman
-- `xumanan`: man
-- `xumazon`: human
-
-Note, these are the _technical_ names for the beings, there could also be a set of _common names_ for such beings. These technical names are going to be derived and translated from the Latin names in the biological taxonomy.
-
-### Inanimate Material Beings
-
-All of these start with `dal` or `dala`, meaning "body". These are for things like atoms, molecules, liquids, gasses like stars, solids like rocks and dirt.
-
-### Molecules and Atoms
-
-These are described by the effect they have on the world in some way as inanimate objects, by prefixing each word with `wiv`. The simplest one, `wivoxum` is carbon, meaning "life mesh" or "life network". These are going to be translated from the IUPAC chemical name standards.
-
-- `wivasawasa`: hydrogen
-- `wivasolara`: helium
-- `wivaxuraka`: lithium
-- `wivavilara`: berylium
-- `wivaborona`: boron
-- `wivaxuma`: carbon
-- `wivamuxa`: nitrogen
-- `wivabita`: oxygen
-- `wivamada`: fluorine
-
-### Constellations
-
-All of these start with `nava` for navigation.
-
-### Mathematical Structures
-
-- https://en.wikipedia.org/wiki/List_of_named_matrices
-
-### Fields of Study
-
-Any field of study starts with `lag`, or when a noun `laga`. For example, mathematics, or abstraction study, it would be `lagasuruka`, or science (the study of nature) is `lagadoza`, or art (the study of creation) as `lagameka`.
-
-### Tools
-
-Tools are any created objects and are prefixed by `tula`, meaning tool.
-
-### Numbers
-
-- `han`: zero
-- `zen`: one
-- `dos`: two
-- `san`: three
-- `lom`: four
-- `kam`: five
-- `xat`: six
-- `vip`: seven
-- `fet`: eight
-- `nav`: nine
-- `bap`: ten
-- `pak`: eleven
-- `mod`: twelve
-
-Then to make more, you do binary, with `i` meaning raise to the power.
-
-Cardinal numbers (first, second)
-
-- `-oho`
-
-Times numbers (once, twice)
-
-- `-ohi`
-
-### Colors
-
-Colors begin with `xed` ("color"), but is shortened to just `x` on simple color names, like `xanen` is black.
-
-You can talk about color wheel values with `xedawil`, so `xedawilazenapona` or something like that.
-
-### Geographic Places
-
-As [what3words.com](https://what3words.com) shows, you can at least name every 3x3 meter area on Earth with 3 simple English words (since that amounts to something like 10-ish million 3x3 meter areas I think). In a similar way, we will name geographic places, starting with `zon` meaning "land".
 
 ### Generic types
 

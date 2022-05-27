@@ -218,7 +218,9 @@ Here is a table of the known common word suffixes in Tune.
 | `-vula` | result (-tion) |
 | `-xama` | the state of being x (-acy, -ness, -ship) |
 | `-nala` | period of x (-hood) |
+| `-hena` | (-ment) |
 | `-pata` | act of |
+| `-lami` | do like x |
 | `-yoga` | practice of focusing on x (-ism) |
 | `-vana` | having the nature of (-ivity, -ity, -ance) |
 | `-fina` | belief in x |
@@ -231,7 +233,7 @@ Here is a table of the known common word suffixes in Tune.
 | `-lena` | the nature of doing x (-ence) |
 | `-mona` | featuring x |
 | `-moxa` | the model of the action ("the transform", "the create") |
-| `-wosa` | disease (-osis) |
+| `-kosa` | disease (-osis) |
 | `-duka` | thing (hatchling) |
 | `-kana` | ability (-ability) |
 | `-kuna` | -ableness |
@@ -250,6 +252,7 @@ Here is a table of the known common word suffixes in Tune.
 | `-tevo` | relates to (affectional) |
 | `-zuno` | -wise |
 | `-mavo` | loving (-phile) |
+| `-firo` | hating/fearing/resisting (-phobia) |
 | `-pati` | do like |
 
 For names, use `-e` or `-u`. For long words, use a `:` colon to separate them.
@@ -277,13 +280,13 @@ Here are some common prefixes.
 | `zig-` | equal (iso-) |
 | `bis-` | across (trans-) |
 | `dit-` | distance (tele-) |
-| `gan-` | without |
-| `niv-` | with (con-) |
-| `fun-` | within (endo-) |
-| `rin-` | again (re-) |
-| `res-` | partial (semi-) |
+| `geno-` | without |
+| `nivo-` | with (con-) |
+| `funo-` | within (endo-) |
+| `rino-` | again (re-) |
+| `reso-` | partial (semi-) |
 | `sudo-` | somewhat (pseudo-) |
-| `meda-` | thing about the thing (meta-) |
+| `medo-` | thing about the thing (meta-) |
 
 **Note**, there can become ambiguities in compound words, which is why we have the `-wi-` infix. You probably won't have to worry about this unless you are working on constructing or cleaning up _compound words_, but it is here for completeness. For example, say we have these 4 words:
 

@@ -8,10 +8,10 @@ ben,b letter
 bes,base
 bib,left
 bif,previous
-bim,edge
+bim,line
 bip,bit
 biq,else
-bis,across (trans-)
+bis,across/through (trans-)
 bod,consonant
 bon,relation (the connection itself)
 bor,bump/hill
@@ -63,11 +63,11 @@ for,joint (the point where the two connect)
 fos,information
 fub,child
 fuf,small
-fum,fruit
+fut,fruit
 fun,within (endo-)
 gad,god
 gag,opposite (anti)
-gan,without
+gen,without
 gar,"language (-ese)"
 gav,a vowel
 gax,hand/grabber
@@ -81,10 +81,10 @@ goz,get
 gug,slow
 guv,plasma
 gux,memory (storage medium)
-hab,zero
+han,zero
 haf,weight
 hal,timespan
-han,grow
+hab,grow
 hed,medium
 hem,open
 hes,skew
@@ -124,7 +124,7 @@ lab,current
 laf,four
 lak,lock
 lal,rotate/spin
-lam,need
+lam,do like something
 las,"less of (-less) empty"
 led,solution
 len,"the nature of doing x (-ence)"
@@ -379,7 +379,7 @@ cuj,
 Cub,
 ful,u letter
 neC,
-reC,
+reC,need
 luC,
 mec,
 lub,
