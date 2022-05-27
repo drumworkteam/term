@@ -8,7 +8,7 @@ ben,b letter
 bes,base
 bib,left
 bif,previous
-bim,top
+bim,edge
 bip,bit
 biq,else
 bis,across (trans-)
@@ -262,7 +262,7 @@ tev,"relates to (affectional)"
 tiq,true
 tit,texture
 ton,tone/sound
-top,surface
+top,top
 tub,"over (overburden)"
 tul,"it's a tool (zipper)"
 tut,t letter
@@ -346,18 +346,18 @@ cif,theif
 tic,fourteen
 goC,fifteen
 dof,
-xez,
+xev,update
 yeg,
 yex,
 yiz,
 yuq,
-zaq,
+zaq,surface
 zeg,
 zex,
 ziz,
 zuk,
 zuq,
-sej,
+sej,j letter
 Coc,
 rac,
 cin,
@@ -366,18 +366,18 @@ deC,
 cuc,
 dic,
 noC,
-com,
+com,c letter
 cef,
 wez,
 muC,
 sac,
-Cal,
+Cal,C letter
 Cen,
 Ced,
 cem,
-Cuj,
+cuj,
 Cub,
-ful,
+ful,u letter
 neC,
 reC,
 luC,
@@ -394,14 +394,14 @@ voq,
 rus,
 buC,
 Cum,
-goq,
+goq,o letter
 haC,
 Cod,
 lij,
 Caj,
 Cor,
 cob,
-huC,
+huc,
 Cuf,
 loc,
 liC,
@@ -417,7 +417,7 @@ Ces,
 biC,
 roj,
 duc,
-kak,
+kak,a letter
 faj,
 kuq,
 veq,
@@ -437,7 +437,7 @@ hec,
 hoc,
 CuC,
 faC,
-tep,
+tep,e letter
 coj,
 cud,
 Cam,
@@ -487,7 +487,7 @@ nic,
 weq,
 cac,
 kuk,
-doj,
+doj,hallucinogen
 cid,
 pup,
 soC,
