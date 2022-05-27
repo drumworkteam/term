@@ -17,6 +17,7 @@ bon,relation (the connection itself)
 bor,bump/hill
 bos,log (math)
 bub,now
+noz,nose
 buf,z-axis
 bul,side
 bum,u vowel
@@ -34,6 +35,7 @@ din,d letter
 dip,tree
 dir,biton
 dis,number
+nul,null
 dit,distance (tele-)
 dob,two
 dol,o vowel
@@ -291,6 +293,7 @@ wek,count
 wev,wave
 wig,require
 wir,exist
+wil,wheel
 wiv,form/shape
 wix,urge
 wok,awake
@@ -327,6 +330,7 @@ yog,practice of focusing on x (-ism)
 yov,sort
 yox,possible
 yuk,y letter
+yug,period
 yuz,use
 zak,z letter
 zaz,angle
@@ -346,6 +350,7 @@ cif,theif
 tic,fourteen
 goC,fifteen
 dof,
+saq,song
 xev,update
 yeg,
 yex,
@@ -355,7 +360,7 @@ zaq,surface
 zeg,
 zex,
 ziz,
-zuk,
+zuk,run
 zuq,
 sej,j letter
 Coc,
@@ -364,7 +369,7 @@ cin,
 xeq,
 deC,
 cuc,
-dic,
+dic,time
 noC,
 com,c letter
 cef,
@@ -383,24 +388,24 @@ reC,need
 luC,
 mec,
 lub,
-mos,
+mos,play
 seC,
 fuj,
 xoz,
 dac,
-Cos,
+Coz,home
 yaz,
 voq,
 rus,
 buC,
 Cum,
-goq,o letter
-haC,
-Cod,
+goq,
+hac,
+Cod,o letter
 lij,
 Caj,
 Cor,
-cob,
+cob,vibe
 huc,
 Cuf,
 loc,
@@ -430,7 +435,7 @@ nac,
 fuC,
 CaC,
 mub,
-rej,
+rej,want
 CiC,
 car,
 hec,
@@ -461,7 +466,7 @@ fiC,
 cus,
 sic,
 Cab,
-nuc,
+nuc,mind
 hiC,
 laC,
 coC,
@@ -475,15 +480,15 @@ cad,
 seb,
 laj,
 cof,
-boc,
+boc,both
 haj,
 col,
 cur,
 cis,
-fec,
+fec,faith
 doC,
 hij,
-nic,
+mic,myth
 weq,
 cac,
 kuk,
@@ -495,15 +500,16 @@ suc,
 Caf,
 muj,
 roC,
-ric,
+ric,ring
 bec,
 luj,
 zog,
 soj,
 nej,
-zik,
+zik,seek
 moc,
-kaz,
 lib,
 fij,
 mij,
+cat,hook
+vin,view
