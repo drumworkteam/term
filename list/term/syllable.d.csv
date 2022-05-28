@@ -188,19 +188,20 @@ vlenz,gasoline
 frolz,mile
 strit,street
 stret,straight
-preqk,farm
+preqk,prank
 smutx,hotel
 trifk,court
 drorb,school
 blimd,office
 blugz,university
-srorc,
 bloft,
 djark,
+skwat,get down low
 vraft,shop
 xlorg,library
 vlorb,hospital
 txand,market
+martx,march (rigid movement forward)
 sriqk,building
 framz,comet
 klomd,dirt
@@ -233,6 +234,8 @@ drorz,sugar
 djinz,knife
 grend,spoon
 glorp,
+stamp,stomp
+print,print
 xlifk,stool
 twond,bathroom
 slork,pencil
@@ -332,15 +335,28 @@ bloqk,thematized
 slisp,acid
 treft,angel
 djesk,
+freqk,frank (be frank with someone)
+rantx,ranch
+bardj,barge
+kwant,quantity
+krost,crust
 flast,army
 slonz,art
-brand,bake
+brand,brand
 blisp,bundle
 djult,beefy
 blesk,bench
 vrorC,bike
 djurb,bite
-smusp,blink
+smusp,
+bliqk,blink
+sprig,
+briqk,brink
+pleqk,plank
+snort,snort
+txarm,charm (make feel good)
+sworm,swarm
+swamp,swamp (cover heavily)
 blurC,blister
 trarc,blushing
 vrusk,alcohol
@@ -412,12 +428,11 @@ smafk,
 xlisp,gullet
 sradj,gill
 vrort,grandmother
-blorz,
+blorz,homogeneous
 stres,stress
 prezd,
-vreft,
 blusk,homeostasis
-blast,homogeneous
+blast,blast
 krunz,incense
 proqk,incisor
 frarC,
@@ -480,6 +495,8 @@ bredc,breadth
 djont,joint
 freft,disjoint
 kanst,constant
+stand,stand
+stedj,stage
 strak,structure
 skutx,scootch
 tranz,transitivity
@@ -491,6 +508,7 @@ txart,chart
 rendj,range
 klips,ellipse
 straq,strong
+stram,strum
 frend,friend
 front,
 spurm,sperm
@@ -576,7 +594,6 @@ srotx,
 txofk,
 srolp,
 glorg,
-krost,
 flogz,
 srazd,
 vrulp,
@@ -613,7 +630,7 @@ xrust,
 xrolp,
 pretx,
 snust,
-draft,
+draft,draft (before release)
 djind,
 vrard,
 djasp,
@@ -698,7 +715,7 @@ flolp,
 xleft,
 grind,
 djoqk,
-driqk,
+driqk,drink
 blift,
 flodj,
 prisp,
@@ -1204,7 +1221,7 @@ krosk,
 smest,
 trorC,
 tronz,
-kraft,
+kraft,craft
 drogz,
 plird,
 drort,
@@ -1383,6 +1400,10 @@ sworp,
 brork,
 snand,
 smard,
+smart,smart
+skarf,scarf (clothing)
+skald,scald
+skrul,screw
 smond,
 vlard,
 glefk,
@@ -1467,6 +1488,9 @@ slurc,
 fratx,
 brast,
 sporp,
+sport,sport
+lants,knife
+prist,priest
 xrofk,
 pluft,
 xlarz,
@@ -1535,7 +1559,7 @@ gremz,
 vromz,
 flult,
 glarb,
-grand,
+grand,grand
 vlast,
 xland,
 klisk,
@@ -1557,6 +1581,7 @@ grufk,
 flugz,
 xlurb,
 txanz,
+txant,chant
 djusk,
 txort,
 smuft,
@@ -1888,7 +1913,6 @@ crorC,
 txurd,
 troqk,
 snast,
-trast,
 djalz,
 drusp,
 djund,
@@ -2156,6 +2180,7 @@ grosk,
 vlult,
 klesk,
 glost,
+trast,trust
 trust,
 sraqk,
 vrift,
@@ -2196,11 +2221,15 @@ klefk,
 txesp,
 trift,stout
 creft,
+kleqk,clank
 frazd,
 flesp,
 froft,
 klasp,
 txizd,
+drift,drift (move along like on water slowly and aimlessly)
+sketx,sketch
+djent,
 drosk,
 vrist,
 twufk,
@@ -2210,3 +2239,4 @@ grift,
 brazd,
 xlizd,
 vlomz,
+skold,scold (yell out beyond necessary)

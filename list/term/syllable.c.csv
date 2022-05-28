@@ -5,12 +5,21 @@ sres,regular
 frem,frame
 durp,entropy
 spes,space
+pest,paste
+stip,steep (incline)
+stir,steer
+marx,marsh (wetlands)
+krud,crude (unrefined)
+drep,drape (overlay)
+snup,snoop
 dram,drama
 twam,partition
 titx,teach
 sweq,order
 gris,gray
+grez,graze (move casually across the landscape)
 blek,black
+hest,quick
 blak,block (element)
 txen,together
 blib,subadditivity
@@ -19,7 +28,7 @@ cron,throne
 krox,extension
 brob,parallel
 slud,dimension
-txif,difficult to intuit
+txif,chief/prime
 truv,candela (unit)
 flod,flood
 slom,relation
@@ -35,6 +44,8 @@ blam,ampere (unit)
 glem,stay
 frud,zoom out
 klux,natural
+natx,notch (groove in something)
+spal,read the future
 breb,decrease
 flub,reference
 spor,spore
@@ -43,18 +54,23 @@ txes,chase
 snin,separation
 brek,break
 glis,circle
+klin,clean
+klir,clear
 plen,plane
+plan,plan
 prad,rough
 prap,property
 frin,discrete
 sraf,complete
 slar,convergence
+slev,slave
 preb,direct
 plod,composite
 vrag,origin
 slun,arrow
 lund,land
 krit,concrete (abstract)
+tred,trade
 frus,convex
 smos,always
 vrek,limit
@@ -64,11 +80,16 @@ slof,increase
 fles,iteration
 slol,radius
 camp,compensation
+sent,respected/good being (saint)
 brom,complex
 bris,neck
 fled,across
+kras,cross
+krab,crab
 prud,complement (set)
 draf,commutativity
+dren,drain
+twid,rough
 srif,cone
 sram,handle
 grav,gravity
@@ -101,10 +122,11 @@ trag,along
 krex,xnor (logic)
 trek,virtual
 snud,between
+twit,tweet
 fras,hear
 norm,normal
 prom,see
-flum,principle
+flum,butterfly
 txub,antisymmetric
 snir,reverse
 brem,dynamic
@@ -118,6 +140,9 @@ dort,ideal
 grak,grok
 grov,grove/forest
 mold,mold (shape for something)
+xark,shark
+firs,fierce
+grep,grape
 vrez,arc
 glan,axiom
 grag,disconnected
@@ -144,6 +169,10 @@ blon,alternate
 brun,brown
 smul,idempotence
 freb,sweep (ball in topology)
+swip,sweep (broom)
+kwin,female
+blok,male
+beqk,earn
 klig,absorption
 txib,max
 klag,distributivity
@@ -151,9 +180,11 @@ tatx,touch
 snus,also
 blal,about
 snas,condition
+snek,snake
 txod,beyond
 srum,modular
 txim,parabola
+bolt,bolt
 swez,independent
 glir,rate
 trak,track
@@ -167,6 +198,7 @@ druf,pan (move screen around)
 pand,pond
 glin,glean
 spam,static
+stet,state
 dred,nonsymmetrical
 srab,total
 kriz,cosine
@@ -178,7 +210,8 @@ drap,drop
 flak,flock
 grug,irreflexive
 krik,river
-twed,min
+kaqk,conch shell
+wodj,wedge
 trig,intrigue
 xift,shift (move discretely)
 kleq,zoom in
@@ -199,6 +232,8 @@ snis,fine
 smub,xor (logic)
 flaf,incidence
 txor,chore
+kord,chord (rope)
+txok,choke
 piqk,pink
 xmus,intersection (set)
 glom,barely
@@ -206,15 +241,18 @@ gram,gram
 gret,great
 grev,grave
 glov,glove
+swup,swoop
+pliz,please
 stov,stove
 trux,restriction
 groq,kelvin (unit)
 trix,aware
 smuC,smooth
-brid,union (set)
+brid,breed
 sfir,sphere
 txap,chop
 txip,cheap
+txit,cheat
 kliv,and (logic)
 mirt,meter
 frad,concave
@@ -253,6 +291,7 @@ halp,elbow
 frun,domain (possible values)
 flen,average
 grin,green
+grid,greed
 gloC,knee
 mitx,bone
 skan,skin
@@ -308,6 +347,7 @@ fizd,bowel
 larv,cervix
 budj,chin
 blaj,claw
+klas,class (training)
 doqk,windpipe
 wiqk,wink
 putx,dog
@@ -322,9 +362,10 @@ doft,exa
 flal,tera
 hond,giga
 cust,mega
-djam,kilo
+djam,
 domz,milli
 mard,micro
+mark,mark
 setx,nano
 hufk,pico
 larc,femto
@@ -333,12 +374,20 @@ surf,zepto
 snad,yocto
 pruc,peta
 briC,breath
-pras,star
+pras,
+hand,hand
+star,star
+tarp,vast
+swab,wipe
+form,makeup
 txal,earth
 midj,sky
 bitx,beach
 djiC,scene
 skar,scar
+slet,slate (slide in between)
+worn,warn
+sker,scare
 kart,cart
 kard,card
 skal,skull
@@ -347,17 +396,34 @@ slog,slug
 kurv,curve
 karb,carbohydrate
 ston,stone
-nedj,butterfly
+nedj,
 faks,fox
 hulp,owl
 halk,hawk
 brik,eagle
 nurp,cloud
+klok,cover
+tant,taunt
+glum,gloom
+krid,system of principles
 humz,cactus
 bork,lizard
 drom,drum
 drup,droop
+krip,creep
 djoc,eye
+kwal,quality
+snir,sneer (make face at)
+stok,excitement
+smux,smoosh
+kwax,void/reject/extinguish
+swac,swath (portion)
+trus,truce (mutual agreement)
+grit,greet/welcome
+trov,plenty
+rust,roost (sit in the nest)
+slik,sleek
+stup,stoop (come down to level)
 flut,flute
 wind,wind
 fent,faint
@@ -368,6 +434,7 @@ snol,snow
 snor,snore
 prob,probe
 kors,coarse
+kost,coast
 drec,rain
 kren,crane (machine)
 craj,pulley
@@ -384,6 +451,7 @@ bren,brain
 blem,blame
 gost,ghost
 biqk,deer
+frac,froth
 coft,rabbit
 cres,squirrel
 crib,rainbow
@@ -410,6 +478,9 @@ vurz,excellence
 corg,freedom
 djiq,abundance
 wurp,spirit
+spik,talk
+tren,train (skill)
+praz,prize
 dofk,support
 port,port
 fogj,safety
@@ -424,7 +495,11 @@ Camz,fish
 hagz,salmon
 salt,salt
 xmuc,sparrow
+sper,spare
+farm,farm
+klim,climb
 hamd,grasshopper
+kotx,coach
 disk,disk
 xman,moss
 holk,elk
@@ -443,8 +518,17 @@ smiC,summer
 mors,bud
 xrab,shrub
 xlon,ball
+bald,bald (without texture)
+blax,blush
+tost,toast (clink glasses)
 sist,harmony
+harm,harm
+spat,spot (position in a place)
+krap,crop (fit to frame)
 nord,stillness
+stiq,sting
+rant,rant
+batx,make mistake
 bard,vision
 valt,vault
 vroz,beaver
@@ -452,10 +536,20 @@ xmad,warmth
 litx,wing
 narf,happiness
 mird,sweep
-cros,gift
+cros,
+gift,gift
+last,lost/lose
+pram,formality
 borp,guide
 cruf,joy
 mutx,bright
+brif,brief (short and concise)
+gron,groan
+wund,wound
+slek,quench thirst
+frad,fraud
+sner,catch/snare
+kurs,curse
 harg,wonderful
 sofk,divinity
 Cusp,dove
@@ -483,18 +577,25 @@ gles,glacier
 djal,essence
 hatx,notion
 fant,fountain
+yist,yeast
+staf,team
 task,task (something to do)
+test,taste (try something)
 stek,stake (in the ground)
 stal,stall (hold still)
+grup,collect
 band,bond
 skor,score
+skop,scope
 nezd,discovery
 fosk,similarity
 ritx,reach
 blis,bliss
 blip,beep sound
+sorv,serve
+tart,sour
 sogz,material
-fors,ornament
+fors,force
 Camd,multiplication
 snof,addition
 cand,possibility
@@ -518,15 +619,17 @@ dusk,elephant
 hant,haunt
 trit,treat
 trok,trick
-sraC,softness
+sraC,
 treq,harvest
 barv,town
 xmin,completeness
+plet,plate (flat object)
 rozd,potential
 krim,cream
 wark,awareness
 spir,spear
 cast,tiger
+gest,guest
 ramp,romp
 drav,drive
 criC,neighbor
@@ -534,14 +637,23 @@ fart,fart
 kolt,horse
 horn,horn
 hard,honey
-fluj,spice
-gurt,sweetness
+spas,spice
+swit,sweet
+gurt,
+fluj,ornament
 dalt,day
 bond,phone
 fliq,fling (throw with an extra force)
 stim,steam
 stil,steal
+proz,prose (written text)
+xard,shard (broken of sharp piece)
+xarp,sharp
 spuf,spoof
+bral,fight
+bust,boost
+fler,flair
+spun,spoon
 fric,feeling
 fend,center
 spok,spoke (ring to center hub link)
@@ -565,6 +677,7 @@ huft,room (extra space)
 fenz,lion
 bruz,bruise
 brac,broth
+brev,brave
 wolf,wolf
 matx,oak (tree)
 swim,swim
@@ -579,8 +692,13 @@ nand,nand (logic)
 flek,flake
 fluk,fluke (random rare occurence)
 stap,stop
+sten,stain
+ster,stare
 stor,store
 park,park
+borg,robot
+slon,slow
+fast,fast
 klob,club
 lorm,lore
 drim,dream
@@ -588,14 +706,19 @@ madj,magic
 flib,image (math)
 flor,flower
 bran,strength
+blek,bake
+dadj,dodge (move out of the way)
 morf,morph
 klon,clone
+klak,clock
+pitx,peach
 monk,monk
 gren,grain
 gres,grace
 slop,slope
 prod,prod
 gruv,groove
+grum,groom
 krak,crack
 slab,slob
 work,work
@@ -640,7 +763,12 @@ muft,
 fitx,
 xlij,
 forf,
-sark,
+sark,min
+wand,wand (long stick)
+dart,dart (move fast toward a goal)
+dorm,house
+kalt,cult
+bold,prominence
 hold,
 negz,
 migz,
@@ -659,9 +787,14 @@ lalz,
 plaj,
 degz,
 plal,
-smal,
+smal,smell
 spim,
 brof,
+brum,broom
+mist,mist
+swat,hit
+twin,move between
+grul,difficulty
 twes,
 grok,
 klix,
@@ -670,6 +803,8 @@ klug,
 drab,
 slis,
 smon,
+smok,smoke
+pruf,proof (math)
 glad,
 snan,
 smes,
@@ -728,6 +863,7 @@ benz,
 hasp,
 snoC,
 flos,
+flot,float
 glud,
 harv,
 smuf,
@@ -782,13 +918,20 @@ worz,
 furd,
 surs,
 nomd,
-cusk,
+swap,swap
+cusk,kilo
+spar,compete
+spul,spool
+grab,grab
+hint,hint
+tork,torque
+darn,darn (express frustration)
 craC,
 txuC,
 menz,
 Calp,
 vlok,
-kort,
+kort,court
 fuft,
 hadj,
 rolz,
@@ -799,6 +942,7 @@ swag,
 farg,
 nirp,
 fond,
+fyum,fume
 fumz,
 djub,
 hosk,
@@ -819,7 +963,7 @@ muqk,
 retx,
 Corp,
 Cigz,
-reqk,
+reqk,rank
 Carb,
 spuC,
 cezd,
@@ -828,6 +972,7 @@ spoc,
 pluj,
 Carc,
 frej,
+frex,fresh
 djen,
 detx,
 Cifk,
@@ -856,6 +1001,7 @@ regz,
 redj,
 xarz,
 sorg,
+sort,sort
 cren,
 djij,
 hafk,
@@ -867,7 +1013,7 @@ bimz,
 brud,
 cagj,
 bonz,
-sord,
+sord,sword
 bufk,
 fulz,
 lors,
@@ -881,7 +1027,7 @@ sleC,
 butx,
 remd,
 nemd,
-slin,
+slin,difficult to intuit
 worc,
 vloz,
 sind,
@@ -942,7 +1088,7 @@ Cond,
 besk,
 Cufk,
 spuj,
-sorv,
+lard,fat
 hogj,
 fonz,
 cofk,
@@ -957,24 +1103,31 @@ rind,
 bogj,
 dagj,
 snoj,
-rotx,
+rotx,cockroach
+frik,freak (go crazy)
 Cosk,
 comd,
 druj,
 Cift,
 firt,
+firm,firm
 dorb,
+dork,dork
+glik,geek
 mest,
-djib,
+djip,car
 fulp,
 dolz,
 smec,
+snif,sniff
 rust,
 fadj,
+comp,thump
 cinz,
 crum,
 dotx,
 dind,
+drek,
 Cugz,
 dugj,
 twec,
@@ -1084,21 +1237,41 @@ durk,
 txab,
 Carg,
 bors,
+bark,coat
 plec,
 xmol,
+molt,molt (shed skin)
 magz,
 smij,
 vruv,
-dolp,
+vrum,race
+corn,thorn
+twik,adjust
+smax,smash
+txom,chill (relax)
+flax,flash
+flas,floss
+blez,be on fire
+redj,rage
+klem,claim
+plat,plot (of a story)
+plum,plume (big cloud)
+dolp,union (set)
 demd,
+bost,boast
 sugj,
 djif,
 vrix,
+drul,drool
+glez,glaze
+gled,meadow
+span,spawn (give rise to)
 musp,
 wurk,
 fafk,
 vliv,
 snac,
+snak,snack
 refk,
 kluv,
 comz,
@@ -1150,6 +1323,7 @@ krog,
 cruj,
 swax,
 spif,
+spid,speed
 Curb,
 vrug,
 vluv,
@@ -1188,7 +1362,7 @@ swiv,
 xmem,
 laqk,
 nemz,
-bird,
+bird,beard
 vlax,
 famz,
 cesp,
@@ -1224,6 +1398,9 @@ grek,
 nurs,
 forp,
 cark,
+saft,soft
+djok,joke
+yard,yard (enclosed area)
 soft,
 garz,
 roqk,
@@ -1252,6 +1429,12 @@ mudj,
 sluc,
 djum,
 crab,
+kret,crate
+krez,craze/crazy
+sped,shovel
+ceqk,thank
+ladj,shove into
+flef,fluff
 cisk,
 limz,
 faft,
@@ -1266,7 +1449,8 @@ bumz,
 xmoC,
 flon,
 druC,
-falt,
+falt,fault (be to blame)
+trex,trash
 klok,
 fisp,
 romz,
@@ -1298,7 +1482,9 @@ sask,
 nolt,
 xmas,
 mufk,
-kloz,
+kloz,clothes
+skat,scout
+snel,snail
 mond,
 nund,
 mamd,
@@ -1311,7 +1497,7 @@ snej,
 furc,
 mifk,
 pluC,
-kruz,
+kruz,cruise
 txaC,
 lamd,
 fagz,
@@ -1361,24 +1547,30 @@ xurt,
 hizd,
 worg,
 cars,
-lest,
+lest,minor
 demz,
 nusk,
 gluc,
-marb,
+marb,major
 mogj,
 preC,
 bidj,
+golp,gulp
 buzd,
 sloC,
 Cudj,
 Culp,
 malt,
 frob,
+txuz,choose
 txum,
 dark,
+tent,taint
+glot,gloat
 farb,
 luzd,
 fift,
 proC,
 plif,
+gros,sickening
+rost,cook thoroughly
