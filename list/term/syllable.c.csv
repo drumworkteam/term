@@ -75,7 +75,7 @@ frus,convex
 smos,always
 vrek,limit
 bled,blade
-kris,crease
+kris,easy
 slof,increase
 fles,iteration
 slol,radius
@@ -391,6 +391,7 @@ sker,scare
 kart,cart
 kard,card
 skal,skull
+skun,skew
 sket,skateboard
 slog,slug
 kurv,curve
@@ -769,26 +770,26 @@ dart,dart (move fast toward a goal)
 dorm,house
 kalt,cult
 bold,prominence
-hold,
-negz,
+hold,log (math)
+negz,nose
 migz,
-snid,
-vlag,
+snid,null
+vlag,tension
 vlug,
-maqk,
-sund,
+maqk,electricity
+sund,mass
 fasp,
 lumd,
-bloC,
-roft,
+bloC,smell
+roft,magnetism
 murg,
 sors,
 lalz,
-plaj,
+plaz,plasma
 degz,
 plal,
-smal,smell
-spim,
+smal,small
+spim,acceleration
 brof,
 brum,broom
 mist,mist
@@ -796,11 +797,11 @@ swat,hit
 twin,move between
 grul,difficulty
 twes,
-grok,
+grok,set (math)
 klix,
 sped,
 klug,
-drab,
+drab,gas (energy)
 slis,
 smon,
 smok,smoke
@@ -811,14 +812,14 @@ smes,
 troz,
 greq,
 frol,
-fris,
+fris,liquid
 xlaf,
 wirp,
 higz,
 cegz,
 balz,
 burv,
-plor,
+plor,torment
 huzd,
 pric,
 lird,
@@ -829,10 +830,10 @@ dunz,
 murc,
 rask,
 xurz,
-nask,
+nask,aggregate
 dars,
 buqk,
-crim,
+crim,weight
 flaC,
 mugz,
 djed,
@@ -876,6 +877,7 @@ cotx,
 gosp,
 cask,
 vloq,
+vlos,velocity
 mafk,
 vart,
 lulz,
@@ -1286,7 +1288,7 @@ djaj,
 nars,
 sanz,
 hidj,
-sarf,
+sarf,angle
 marg,
 murv,
 sars,
@@ -1301,20 +1303,20 @@ mwam,
 vriv,
 flif,
 ceft,
-dand,
+dant,solid
 monz,
 pluf,
 twaC,
 bulp,
 smaf,
 txoc,
-swav,
+swav,wave
 cord,
 plaC,
 lizd,
 Cimd,
 vlig,
-badj,
+bodj,body
 Curg,
 sisk,
 lorp,
@@ -1466,7 +1468,7 @@ noft,
 ligz,
 bost,
 warp,
-bosk,
+bosk,big
 xlib,
 sruj,
 mwim,
@@ -1475,7 +1477,6 @@ susk,
 fird,
 xlod,
 bigz,
-bref,
 plij,
 begj,
 sask,

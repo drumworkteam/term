@@ -13,17 +13,14 @@ bip,bit
 biq,else
 bis,across/through (trans-)
 bod,consonant
-bon,relation (the connection itself)
+bon,relation/link (the connection itself)
 bor,bump/hill
-bos,log (math)
+bos,O letter
 bub,now
-noz,nose
-buf,z-axis
+noz,z-axis
 bul,side
-bum,u vowel
-dad,start
-dan,closed
-dana,closure
+dad,parent
+dan,urge
 dar,darkness
 das,negative
 deb,density
@@ -33,91 +30,78 @@ det,datetime stamp/instance in time
 did,just
 din,d letter
 dip,tree
-dir,biton
+dir,bit on
 dis,number
-nul,null
+nul,close
 dit,distance (tele-)
 dob,two
-dol,o vowel
+dol,o letter
 dom,"area or state of being (-dom)"
 dop,value
 dud,extend
 duk,"thing (hatchling)"
 dun,right
-dur,
+dur,feel/feeling
 dus,length
 fab,include
-faf,fast
+faf,A letter
 fal,"full of (-full)"
 fam,scale
 fed,void
 fen,whole
-fes,face
+fes,face (surface)
 fet,eight
 fib,next
 fif,target
-fil,feel/feeling
-fim,mass
 fin,"belief in x"
 fod,f letter
 fon,machine
 for,joint (the point where the two connect)
 fos,information
-fub,child
-fuf,small
+fub,y-axis
 fut,fruit
 fun,within (endo-)
 gad,god
 gag,opposite (anti)
 gen,without
+gem,game
 gar,"language (-ese)"
 gav,a vowel
-gax,hand/grabber
 gek,position
 gez,front
 gig,g letter
 giv,give
-gix,aggregate
+gix,I letter
 gok,end
 goz,get
-gug,slow
-guv,plasma
 gux,memory (storage medium)
 han,zero
-haf,weight
-hal,timespan
+hal,span
 hab,grow
-hed,medium
+het,hate
 hem,open
-hes,skew
-hib,big
-hif,bitoff
+hes,medium
+hif,bit off
 him,back
-hod,velocity
 hon,focus
 hor,out
 hub,x-axis
 huf,h letter
-hul,
 hum,width
 kam,five
 kan,"ability (-ability)"
 kaq,object type
-kazi,do
-kazo,causal
-kazovana,causality
-kaza,cause
+kaz,do/cause
 keg,node
-kev,hate
 kex,k letter
-kik,arm/reach
+kik,reach
 kin,"-ableness"
 kip,group
 kiq,action type
 kix,all encompassing type
 kiz,vowel
 kod,code
-kog,piece
+kag,piece
 koq,fusion type
 kov,part
 kox,nand
@@ -128,7 +112,7 @@ lak,lock
 lal,rotate/spin
 lam,do like something
 las,"less of (-less) empty"
-led,solution
+lid,solution
 len,"the nature of doing x (-ence)"
 les,l letter
 lif,leaf
@@ -140,7 +124,7 @@ lod,load
 log,word
 lon,loan
 lor,balance
-los,quietness
+los,separate
 luf,far
 lul,block/prevent
 lum,all
@@ -154,10 +138,10 @@ mar,"more (-er)"
 mav,"loving (-phile)"
 med,thing about the thing (meta-)
 mek,make
-men,main
+men,main/primary
 mes,different
-mib,acceleration
-mif,set
+mib,size
+mif,set (get)
 mim,i vowel
 mis,"most (-est)"
 mod,twelve
@@ -166,7 +150,7 @@ mor,be
 mox,"the model of the action (e.g. the transform)"
 mud,life
 muf,height
-mul,size
+mul,U letter
 mum,good
 nad,"having some aspects of (-ish)"
 nal,"period of x (-hood)"
@@ -174,11 +158,7 @@ nan,not (un- or -im)
 nar,filter
 nas,nine
 neb,e vowel
-nefi,allow
-nefa,allowance
-nefiha,allowed
-nefihayo,allowedly
-nefiho,allowing
+nef,allow
 nem,name/define
 nid,n letter
 nin,bad
@@ -193,14 +173,14 @@ not,message
 nud,representation
 nun,nothing
 nur,transform
-nus,
 pag,undo
-pap,gas
+pen,pain
 paq,response
 pat,"act of"
 paz,pause
 pet,free
-pip,point/particle
+dat,point/particle
+pip,experience
 piq,request
 pis,peace
 pot,p letter
@@ -212,14 +192,15 @@ raj,thirteen
 rat,"the x action process"
 rav,"reminiscent of (-esque)"
 ref,bottom
-rem,parent
+rem,start
 res,partial (semi-)
 rid,read
 rin,again (re-)
 rip,location
-ris,move
+muv,move
 rob,near
-rof,map (map/reduce)
+puf,proof
+map,map (map/reduce)
 rol,r letter
 rom,merge
 rov,below (sub-)
@@ -229,16 +210,15 @@ run,write
 sad,positive
 san,three
 sar,still
-sas,liquid
+sas,flow
 sef,asleep
 sem,same (sym-)
-sid,seed
+sid,seed/origin
 sin,after (post-)
-sir,torment
+sir,ignorance
 sis,sibling
 sob,death
-sof,computation
-sol,soul
+sol,soul (accumulation of all experience)
 som,s letter
 sud,somewhat (pseudo-)
 sun,probable
@@ -249,22 +229,22 @@ tan,before (pre-)
 tap,top
 taq,false
 tix,boolean
-tat,y-axis
+tat,child
 taz,"very much of (-some)"
 tek,take
 tev,"relates to (affectional)"
 tiq,true
 tit,texture
 ton,tone/sound
+tun,adjust
 tub,"over (overburden)"
 tul,"it's a tool (zipper)"
 tut,t letter
 vag,material/substance
 van,"having the nature of (-ivity)"
 vav,v letter
-vax,ignorance
 ved,"study or science of (-ology)"
-vek,solid
+vek,E letter
 vez,multi
 vig,select
 vim,exceed (super)
@@ -272,23 +252,19 @@ viv,six
 vix,preserve/store/save
 vok,event
 voz,multiply
-vug,speed
 vul,"result (-tion)"
 vuv,way/style
-vux,body
+vux,entity
 wak,traverse
-war,id
+war,identity
 wav,w letter
 wax,universe (all that is in existence)
-wek,count
-wev,wave
+wek,exist
+wev,repeat
 wig,require
-wir,exist
-wil,wheel
+wir,r (english) vowel
 wiv,form/shape
-wix,urge
 wok,awake
-wol,mesh (inter-)
 wos,"disease (-osis)"
 woz,problem
 wuv,on
@@ -324,67 +300,100 @@ yuk,y letter
 yug,period
 yuz,use
 zak,z letter
-zaz,angle
 zen,one
-zev,path
-zigo,equal (iso-)
-ziga,equivalence
+zig,equal (iso-)
 zip,graph
 ziq,q letter
 zir,"pertaining to x (pleasantry)"
-zok,link
-zov,try
+zok,try
 zox,sense
 zun,"-wise"
-zuz,repeat
-cif,theif
+cif,theif/steal
 tic,fourteen
 goC,fifteen
-dof,
 saq,song
-xev,update
+yuq,wheel
+ziz,path
+zuk,run
+sej,j letter
+rac,update
+dic,time
+com,c letter
+Cal,C letter
+ful,u letter
+reC,need
+mos,play
+Coz,home
+cor,o (english) letter
+cob,vibe
+ruc,risk
+kak,logic
+rej,want
+xig,computation
+nuc,mind
+boc,both
+fec,faith
+mic,myth
+doj,hallucinogen
+pup,borrow
+ric,ring
+zik,seek
+cat,hook
+vin,view
+bum,reject
+pop,accept
+fim,mesh (inter-)
+buf,
+fuf,
+gax,
+gug,
+guv,
+haf,
+hib,
+hod,
+hul,
+kev,
+nus,
+sof,
+vax,
+vug,
+wix,
+zaz,
+zev,
+zov,
+zuz,
+dof,
+xev,
 yeg,
 yex,
 yiz,
-yuq,
-zaq,surface
+zaq,
 zeg,
 zex,
-ziz,
-zuk,run
 zuq,
-sej,j letter
 Coc,
-rac,
 cin,
 xeq,
 deC,
 cuc,
-dic,time
 noC,
-com,c letter
 cef,
 wez,
 muC,
 sac,
-Cal,C letter
 Cen,
 Ced,
 cem,
 cuj,
 Cub,
-ful,u letter
 neC,
-reC,need
 luC,
 mec,
 lub,
-mos,play
 seC,
 fuj,
 xoz,
 dac,
-Coz,home
 yaz,
 voq,
 rus,
@@ -392,11 +401,9 @@ buC,
 Cum,
 goq,
 hac,
-Cod,o letter
+Cod,
 lij,
 Caj,
-Cor,
-cob,vibe
 huc,
 Cuf,
 loc,
@@ -407,13 +414,11 @@ maC,
 cas,
 baf,
 ceC,
-ruc,risk
 cej,
 Ces,
 biC,
 roj,
 duc,
-kak,a letter
 faj,
 kuq,
 veq,
@@ -426,14 +431,13 @@ nac,
 fuC,
 CaC,
 mub,
-rej,want
 CiC,
 car,
 hec,
 hoc,
 CuC,
 faC,
-tep,e letter
+tep,
 coj,
 cud,
 Cam,
@@ -451,13 +455,11 @@ reb,
 miC,
 foc,
 Cij,
-xig,
 baj,
 fiC,
 cus,
 sic,
 Cab,
-nuc,mind
 hiC,
 laC,
 coC,
@@ -471,36 +473,27 @@ cad,
 seb,
 laj,
 cof,
-boc,both
 haj,
 col,
 cur,
 cis,
-fec,faith
 doC,
 hij,
-mic,myth
 weq,
 cac,
 kuk,
-doj,hallucinogen
 cid,
-pup,
 soC,
 suc,
 Caf,
 muj,
 roC,
-ric,ring
 bec,
 luj,
 zog,
 soj,
 nej,
-zik,seek
 moc,
 lib,
 fij,
 mij,
-cat,hook
-vin,view
