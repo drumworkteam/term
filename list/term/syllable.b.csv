@@ -4,7 +4,11 @@ bal,world (conception of reality)
 bam,create
 baq,self (auto-)
 bed,depth
-ben,b letter
+nev,a
+ven,the
+venuya,we/us
+beb,target
+big,large
 bes,base
 bib,left
 bif,previous
@@ -12,163 +16,168 @@ bim,line
 bip,bit
 biq,else
 bis,across/through (trans-)
-bod,consonant
+bod,together
 bon,relation/link (the connection itself)
-bor,bump/hill
-bos,O letter
-bub,now
+bor,boundary
+bos,ifnotmatch/otherwise
+bik,reach
+bub,now/current
 noz,z-axis
 bul,side
 dad,parent
 dan,urge
-dar,darkness
+dar,unknown/external
 das,negative
-deb,density
-def,index
+div,there
+dav,here
+deb,
+def,
 dem,effect
 det,datetime stamp/instance in time
-did,just
-din,d letter
+did,just (close-focus)/close
+din,whole
 dip,tree
 dir,bit on
 dis,number
-nul,close
+nul,close (vs. open)
 dit,distance (tele-)
 dob,two
-dol,o letter
+dol,bound
 dom,"area or state of being (-dom)"
 dop,value
 dud,extend
 duk,"thing (hatchling)"
-dun,right
-dur,feel/feeling
+dun,do
+dur,
+fil,feel/feeling (e-motion, "hate-feel" hetafilu)
 dus,length
 fab,include
-faf,A letter
+faf,
 fal,"full of (-full)"
-fam,scale
+fam,scale (relative size)
 fed,void
-fen,whole
+fen,
 fes,face (surface)
 fet,eight
 fib,next
-fif,target
 fin,"belief in x"
-fod,f letter
+fud,food
 fon,machine
 for,joint (the point where the two connect)
 fos,information
 fub,y-axis
 fut,fruit
 fun,within (endo-)
-gad,god
+gad,god/true reality
 gag,opposite (anti)
 gen,without
 gem,game
 gar,"language (-ese)"
-gav,a vowel
-gek,position
+gav,how (missing-action-focus)
+get,position
 gez,front
-gig,g letter
+gil,
 giv,give
-gix,I letter
+gis,danger
 gok,end
 goz,get
 gux,memory (storage medium)
 han,zero
 hal,span
 hab,grow
-het,hate
+het,hate/rejection (emotionless)
 hem,open
 hes,medium
 hif,bit off
 him,back
 hon,focus
+hom,home
 hor,out
 hub,x-axis
-huf,h letter
-hum,width
+huf,
+hum,small
 kam,five
 kan,"ability (-ability)"
 kaq,object type
-kaz,do/cause
+kaz,cause
 keg,node
-kex,k letter
-kik,reach
+kex,
+kik,ifmatch/then
 kin,"-ableness"
 kip,group
 kiq,action type
 kix,all encompassing type
-kiz,vowel
+kiz,
 kod,code
-kag,piece
+kag,item
 koq,fusion type
+kuq,swivel type
 kov,part
 kox,nand
 kuz,exclude
 lab,current
 laf,four
 lak,lock
+lag,that
 lal,rotate/spin
 lam,do like something
 las,"less of (-less) empty"
 lid,solution
 len,"the nature of doing x (-ence)"
-les,l letter
+les,
 lif,leaf
-lig,category
+lig,this
 lim,branch
 lip,chain
 lix,instance
 lod,load
-log,word
+log,flow (speech utterance, stream)
 lon,loan
 lor,balance
 los,separate
-luf,far
+luf,far (large-distance-focus)
 lul,block/prevent
 lum,all
 lup,loop
 luz,light
 mab,evaluate/run (code)
-maf,m letter
+maf,communicating-reference-point
 mal,distance
 mam,source
 mar,"more (-er)"
 mav,"loving (-phile)"
 med,thing about the thing (meta-)
-mek,make
+mek,
 men,main/primary
 mes,different
 mib,size
 mif,set (get)
-mim,i vowel
-mis,"most (-est)"
+mim,
+mis,"most (-est)" (large-collection-partition-focus)
 mod,twelve
 mon,"featuring x"
 mor,be
 mox,"the model of the action (e.g. the transform)"
 mud,life
-muf,height
-mul,U letter
-mum,good
+muf,
+mul,
+mum,
 nad,"having some aspects of (-ish)"
 nal,"period of x (-hood)"
 nan,not (un- or -im)
 nar,filter
 nas,nine
-neb,e vowel
 nef,allow
 nem,name/define
-nid,n letter
-nin,bad
-nir,desire
+nid,desire/craving
+nin,their
+nir,near
 nis,neutral
 niv,with (con-)
-nob,nth square (math)
+nob,maybe
 nof,add
 nol,area/field
-nom,maybe
+non,known
 not,message
 nud,representation
 nun,nothing
@@ -183,7 +192,7 @@ dat,point/particle
 pip,experience
 piq,request
 pis,peace
-pot,p letter
+pot,
 puk,eleven
 rad,cycle
 ran,subtract
@@ -198,20 +207,21 @@ rid,read
 rin,again (re-)
 rip,location
 muv,move
-rob,near
+rob,why
 puf,proof
 map,map (map/reduce)
-rol,r letter
+rol,roll
 rom,merge
-rov,below (sub-)
+rov,they (communicating-agent-external-reference-focus)
 rud,hold
 rul,rule (in system)
 run,write
+ril,real
 sad,positive
 san,three
 sar,still
 sas,flow
-sef,asleep
+sef,safe
 sem,same (sym-)
 sid,seed/origin
 sin,after (post-)
@@ -240,6 +250,8 @@ tun,adjust
 tub,"over (overburden)"
 tul,"it's a tool (zipper)"
 tut,t letter
+riq,your
+raq,my
 vag,material/substance
 van,"having the nature of (-ivity)"
 vav,v letter
@@ -287,6 +299,7 @@ xug,configure/configuration
 xuv,fuel
 xux,change
 yak,exponent
+yan,practice/behavior
 yap,all (omni-)
 yaq,non-foundation
 yev,off
@@ -308,23 +321,25 @@ zir,"pertaining to x (pleasantry)"
 zok,try
 zox,sense
 zun,"-wise"
+win,when
 cif,theif/steal
 tic,fourteen
 goC,fifteen
-saq,song
+saq,I/me (communicating-agent-source-focus)
+siq,you (communicating-agent-target-focus)
 yuq,wheel
-ziz,path
+rod,path
 zuk,run
 sej,j letter
 rac,update
 dic,time
 com,c letter
 Cal,C letter
-ful,u letter
+ful,where
 reC,need
 mos,play
-Coz,home
-cor,o (english) letter
+Coz,
+cor,
 cob,vibe
 ruc,risk
 kak,logic
@@ -334,9 +349,9 @@ nuc,mind
 boc,both
 fec,faith
 mic,myth
-doj,hallucinogen
+doj,
 pup,borrow
-ric,ring
+ric,
 zik,seek
 cat,hook
 vin,view
@@ -344,7 +359,7 @@ bum,reject
 pop,accept
 fim,mesh (inter-)
 gax,only
-zaz,fact
+zaz,fact (something that happened)
 buf,
 fuf,
 gug,
@@ -368,7 +383,7 @@ yeg,
 yex,
 yiz,
 zaq,
-zeg,
+zeg,because
 zex,
 zuq,
 Coc,
@@ -378,7 +393,7 @@ deC,
 cuc,
 noC,
 cef,
-wez,
+wez,if
 muC,
 sac,
 Cen,
@@ -484,7 +499,7 @@ cac,
 kuk,
 cid,
 soC,
-suc,
+suc,what (missing object focus)
 Caf,
 muj,
 roC,
@@ -496,4 +511,15 @@ nej,
 moc,
 lib,
 fij,
-mij,
+mij,who (missing communicating-agent-focus)
+,
+,whatever
+,
+,wherever
+,
+,
+,how
+,
+,
+,
+,
