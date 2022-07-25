@@ -1,0 +1,912 @@
+tune,english
+mi,m sound
+mu,i vowel
+na,n sound
+go,q sound
+gi,g sound
+da,d sound
+bu,b sound
+pi,p sound
+tu,t sound
+ka,k sound
+hu,h sound
+ya,y sound
+wo,w sound
+bab,ten
+bal,world (conception of reality)
+bam,create
+baq,self (auto-)
+bed,depth
+nev,a (isolated-element-focus)
+ven,the (primary-element-focus)
+venuya,we/us
+beb,target
+big,large
+bes,base
+bib,left
+bif,previous
+bim,line
+bip,bit
+biq,else
+bis,across (trans-)
+bod,together
+bon,relation/link (the connection itself)
+bor,boundary
+bos,ifnotmatch/otherwise
+bik,reach
+bub,now/current
+noz,z-axis
+bul,side
+dad,parent
+dan,urge
+dar,unknown/external
+das,negative
+div,there
+dav,here
+deb,
+def,
+dem,effect
+det,datetime stamp/instance in time
+did,just (close-focus)/close
+din,whole
+dip,tree
+dir,bit on
+dis,number
+nul,close (vs. open)
+dit,distance (tele-)
+dob,two
+dol,bound
+dom,"area or state of being (-dom)"
+dop,value
+dud,extend
+duk,"thing (hatchling)"
+dun,do
+dur,
+fil,feel/feeling (e-motion, "hate-feel" hetafilu)
+dus,length
+fab,include
+faf,
+fal,"full of (-full)"
+fam,scale (relative size)
+fed,void
+fen,
+fes,face (surface)
+fet,eight
+fib,next
+fin,"belief in x"
+fud,food
+fon,machine
+for,joint (the point where the two connect)
+fos,information
+fub,y-axis
+fut,fruit
+fun,within (endo-)
+gad,god/true reality
+gag,opposite (anti)
+sit,situation
+gen,without
+gem,game
+gav,how (missing-action-focus)
+get,position
+gez,front
+gil,through
+giv,give
+gis,danger
+gok,end
+goz,get
+gux,memory (storage medium)
+han,zero
+hal,span
+hab,grow
+hav,of
+het,hate/rejection (emotionless)
+hem,open
+hes,medium
+hif,bit off
+him,back
+hon,focus
+hom,home
+hor,out
+hub,x-axis
+huf,
+hum,small
+kam,five
+kan,"ability (-ability)"
+kaq,object type
+kaz,cause
+keg,node
+kex,
+kik,ifmatch/then
+kin,"-ableness"
+kip,group
+kiq,action type
+kix,all encompassing type
+kiz,
+kod,code
+kag,item
+koq,fusion type
+kuq,swivel type
+kov,part
+kox,nand
+kuz,exclude
+lab,current
+laf,four
+lak,lock
+lag,that
+lal,rotate/spin
+lam,do like something
+las,"less of (-less) empty"
+lid,solution
+len,"the nature of doing x (-ence)"
+les,
+lif,leaf
+lig,this
+lim,branch
+lip,chain
+lix,instance
+lod,load
+log,flow (speech utterance, stream)
+lon,loan
+lor,balance
+los,separate
+luf,far (large-distance-focus)
+lul,block/prevent
+lum,all
+lup,loop
+luz,light
+mab,evaluate/run (code)
+maf,communicating-reference-point
+mal,distance
+mam,source
+mar,"more (-er)"
+mav,"loving (-phile)"
+med,thing about the thing (meta-)
+mek,
+men,main/primary
+mes,different
+mib,size
+mif,set (get)
+mim,
+mis,"most (-est)" (large-collection-partition-focus)
+mod,twelve
+mon,"featuring x"
+mor,be
+mox,"the model of the action (e.g. the transform)"
+mud,life
+muf,
+mul,
+mum,
+nad,"having some aspects of (-ish)"
+nal,"period of x (-hood)"
+nan,not (un- or -im)
+nar,filter
+nas,nine
+nef,allow
+nem,name/define
+nid,desire/craving
+nin,their
+nir,near
+nis,neutral
+niv,with (con-)
+nob,maybe
+nof,add
+nol,area/field
+non,known
+not,message
+nud,representation
+nun,nothing
+nur,transform
+pag,undo
+pen,pain
+paq,response
+pat,"act of"
+paz,pause
+pet,free
+dat,point/particle
+pip,experience
+piq,request
+pis,peace
+pot,
+puk,eleven
+rad,cycle
+ran,subtract
+ras,in
+raj,thirteen
+rat,"the x action process"
+rav,"reminiscent of (-esque)"
+ref,bottom
+rem,start
+res,partial (semi-)
+rid,read
+rin,again (re-)
+rip,location
+muv,move
+rob,why
+puf,proof
+map,map (map/reduce)
+rol,roll
+rom,merge
+rov,they (communicating-agent-external-reference-focus)
+rud,hold
+rul,rule (in system)
+run,write
+ril,real
+sad,positive
+san,three
+sar,still
+sas,flow
+sef,safe
+sem,same (sym-)
+sid,seed/origin
+sin,after (post-)
+sir,ignorance
+sis,sibling
+sob,death
+sol,soul (accumulation of all experience)
+som,s letter
+sud,somewhat (pseudo-)
+sun,probable
+sup,above (super)
+sur,divide
+sus,beyond (extra- or hyper-)
+tan,before (pre-)
+tap,top
+taq,false
+tix,boolean
+tat,child
+taz,"very much of (-some)"
+tek,take
+tev,"relates to (affectional)"
+tiq,true
+tit,texture
+ton,tone/sound
+tun,adjust
+tub,"over (overburden)"
+tul,"it's a tool (zipper)"
+tut,t letter
+riq,your
+raq,my
+vag,material/substance
+van,"having the nature of (-ivity)"
+vav,v letter
+ved,"study or science of (-ology)"
+vek,E letter
+vez,multi
+vig,select
+vim,exceed (super)
+viv,six
+vix,preserve/store/save
+vok,event
+voz,multiply
+vul,"result (-tion)"
+vuv,way/style
+vux,entity
+wak,traverse
+war,identity
+wav,w letter
+wax,universe (all that is in existence)
+wek,exist
+wev,repeat
+wig,require
+wir,r (english) vowel
+wiv,form/shape
+wok,
+wos,
+woz,problem
+wuv,on
+wux,system
+xab,seven
+xag,choice/option
+xam,"the state of being x (-acy)"
+xaq,object
+xav,
+xax,
+xek,
+xiq,action
+xit,"shaped"
+xiv,destroy
+xix,all encompasing thing
+xok,copy
+xoq,fusion
+xov,know
+xug,configure/configuration
+xuv,fuel
+xux,change
+yak,exponent
+yan,practice/behavior
+yap,all (omni-)
+yaq,non-foundation
+yev,off
+yik,reduce
+yip,"resembling (-istic)"
+yiq,foundation
+yog,practice of focusing on x (-ism)
+yov,sort
+yox,possible
+yuk,
+yug,period
+yuz,use
+zak,
+zen,one
+zig,equal (iso-)
+zip,graph
+ziq,
+zir,"pertaining to x (pleasantry)"
+zok,try
+zox,sense
+zun,"-wise"
+win,when
+cif,theif/steal
+tic,fourteen
+goC,fifteen
+saq,I/me (communicating-agent-source-focus)
+siq,you (communicating-agent-target-focus)
+yuq,wheel
+rod,path
+zuk,run
+sej,j letter
+rac,update
+dic,time
+com,c letter
+Cal,C letter
+ful,where
+reC,need
+mos,play
+Coz,
+cor,
+cob,vibe
+ruc,risk
+kak,logic
+rej,want
+xig,computation
+nuc,mind
+boc,both
+fec,faith
+mic,myth
+doj,
+pup,borrow
+ric,
+zik,seek
+cat,hook
+vin,view
+bum,reject
+pop,accept
+fim,mesh (inter-)
+gax,only
+zaz,fact (something that happened)
+buf,
+fuf,
+gug,
+guv,
+haf,
+hib,
+hod,
+hul,
+kev,
+nus,
+sof,
+vax,
+vug,
+wix,
+zev,
+zov,
+zuz,
+dof,
+xev,
+yeg,
+yex,
+yiz,
+zaq,
+zeg,because
+zex,
+zuq,
+Coc,
+cin,
+xeq,
+deC,
+cuc,
+noC,
+cef,
+wez,if
+muC,
+sac,
+Cen,
+Ced,
+cem,
+cuj,
+Cub,
+neC,
+luC,
+mec,
+lub,
+seC,
+fuj,
+xoz,
+dac,
+yaz,
+voq,
+rus,
+buC,
+Cum,
+goq,
+hac,
+Cod,
+lij,
+Caj,
+huc,
+Cuf,
+loc,
+liC,
+can,
+lec,
+maC,
+cas,
+baf,
+ceC,
+cej,
+Ces,
+biC,
+roj,
+duc,
+faj,
+kuq,
+veq,
+cun,
+huj,
+maj,
+wag,
+wug,
+nac,
+fuC,
+CaC,
+mub,
+CiC,
+car,
+hec,
+hoc,
+CuC,
+faC,
+tep,
+coj,
+cud,
+Cam,
+Cib,
+hos,
+Cul,
+buj,
+Con,
+woq,
+Cim,
+Cec,
+bij,
+baC,
+reb,
+miC,
+foc,
+Cij,
+baj,
+fiC,
+cus,
+sic,
+Cab,
+hiC,
+laC,
+coC,
+wur,
+noj,
+nef,
+dej,
+geq,
+ceb,
+cad,
+seb,
+laj,
+cof,
+haj,
+col,
+cur,
+cis,
+doC,
+hij,
+weq,
+cac,
+kuk,
+cid,
+soC,
+suc,what (missing object focus)
+Caf,
+muj,
+roC,
+bec,
+luj,
+zog,
+soj,
+nej,
+moc,
+lib,
+fij,
+mij,who (missing communicating-agent-focus)
+,
+,whatever
+,
+,wherever
+,
+,
+,how
+,
+,
+,
+,
+,afar
+,against
+,ahead
+,already
+,altogether
+,away
+,behind
+,beneath
+,beyond
+,but
+death,darca
+birth,burca
+worship,worxayoga
+reverence,vernayoga
+expression,huksa
+liberation,mokxa
+origin (start of first),ridza
+king (ruler),radja
+dormant,dwena
+matter (material substance),martaxa
+war,worla (warrior = worlawa)
+battle,brata
+chaos,korza
+order,xasta
+revelation,hapoqka
+vision,vijrana
+various,varso
+new,norsa
+fiction,fikara
+magic (happens without understanding how it works),madjika
+universe-aether,tehoma
+sea monster,rahaba
+master (rabbi),haraba
+skill,
+walk (organism walk),wakali
+satan (seduces humans into sin),setana
+demon (negative god),dimona
+gene,djina
+rural,rural
+believe,beliva
+deny,kafiri
+recite,korana
+prophet,profeta
+miracle (something impossible happening),miraka
+ambiguous,bigusa
+motif,motifa
+innocence,hinema
+ethics,hecika
+model (to follow),sunara
+talk/discourse,hadica
+blessing,baraka
+secret/hidden message,batina
+maturity,matura
+puberty,pubota
+spirituality,kalifa
+repetition,repita
+obligation,litiga
+permissible,halala
+not permissible,harama
+veil,hidjaba
+strive,djihada
+struggle,dukura
+mundane,munado
+prayer,salata
+parallel,parala
+iteration,rakata
+purity,tahara
+purifying agent,zakata
+mutual guarantee,takafa
+reception,kabala
+esoteric,terika
+splendor,zohara
+service,vodata
+indirect control,vuduma
+grace,xagata
+holy,keduxa
+peel,kelipa
+infinite,sofa
+emanation,sefira
+influence,mazala
+concealment,holama
+illusion,remeza
+cessation of work,xabata
+crown,ketara
+individual,yesoda
+praise,yehuda
+form,forma
+channel,txanela
+luminary,sapira
+scribe,runawa
+understanding,fahuma
+kindness,damaca
+discipline,gevora
+eternity,tonara
+victory,zafara
+defeat,difita
+teachings,torama
+fixing/rectification,tikuna
+redemption,mesija
+piety (focusing on spirituality),hasida
+immanent (present throughout),himana
+unfold,
+upright,yoxara
+harmony,karla
+stable,sateba
+palace (wonderful place),palisa
+vehicle,mekaba
+the way to behave,halaka
+obscure,hobeka
+complete,gamara
+regulation,takana
+customs,minaga
+decisor,poseka
+horn (instrument),xofara
+paint,pentaza
+plowing,horexa
+reaping,kotzera
+winnowing,zoreka
+sorting/purification,borera
+grinding,tohena
+sifting,meraka
+kneading,nidiqa
+cooking,bixula
+shearing,gozeza
+spinning fibers into thread,toveka
+weave,horega
+tying together,koxera
+undoing,matira
+sewing,tofera
+smoothing (sanding/scraping),memaka
+erase,moheka
+ignition,mavira
+meta,meta
+data (structured/useful information),darta
+mercy,midota
+emotion,hayota
+humble,kanaka
+mirage,miraja
+adherent,mumina
+messenger,rasula
+charity,sadaka
+hello,xaloma
+divorce,talaka
+unification,tahida
+intention,kavana
+spirit,runaka
+prediction,monena
+communication with god,magida
+remedy,segula
+protection,poteka
+abdomen,betena
+protruding,boleta
+nipple,dardima
+tendon,tendona
+jupiter,djupita
+venus,vinorsa
+mercury,markura
+mars,marzana
+saturn,saturna
+pluto,plutosa
+uranus,yuranza
+neptune,neptuna
+pacific ocean,prasika
+atlantic ocean,hatlana
+orbit,hobita
+troll,trolona
+intelligent person,wizarda
+carbon,vitraja
+soda,nitropa
+nitrogen,nitroja
+oxygen,breCaja
+sulfur,fartaja
+neon,glowaja
+hydrogen,kwataja
+gold,goldama
+silver,silvana
+platinum,platina
+diamond,dimunda
+iron,txarona
+aluminum,lumirna
+silicon,salpika
+sodium,saltima
+copper,karpira
+zinc,ziqkapa
+water,kwatara
+gas,stimaka
+steam,stimina
+boron,borhana
+flourine,tricina
+chlorine,klirina
+phosphorous,fasfora
+fuse,fyuza
+ignorance,
+bath,bacyaza
+argon,hargana
+arsenic,harsina
+lithium,grakapa
+magnesium,magnisa
+,xidjena
+world,munda
+wicked (bad-inclined),wikedo
+poison,pozana
+magnet,magneta
+medicine,medisa
+doctor,halcawa
+hospital,halcaxloma
+lawyer,glaCawa
+health,halca
+crawl,ralaga
+yawn,yarmala
+elder,malda
+younger,yorga
+baby,bleba
+spoon,spunaza
+alligator,gordona
+lizard,zardona
+science,skaxa
+art,skixa
+history,spexa
+guest,gesta
+lost,lasta
+found,funda
+card,kardeza
+image,flika
+video,volma
+audio,sunda
+electronic,tranoza
+wheel,wilarza
+sheep,glixana
+reptile,rompana
+dinosaur,sorgana
+drug,droga
+fork,forka
+fork (eating tool),forkaza
+knife,bledeza
+chopsticks,txapoza
+chip (rock),kikoka
+firepit,farnoza
+figure out,friki
+map out,marpi
+meaning,gorma
+horn (animal),spakala
+harp (instrument),harpaza
+harpoon,harpuza
+hope,horta
+despair,nolsa
+normal,norma
+build quickly,hatxi
+build correctly,kitxi
+coral,korlana
+collect,korli
+hunt,brimi
+table,blotaza
+cabinet,blomoza
+shelf,xalfiza
+building,xloma
+poop,puporka
+fart,fartoka
+pee,pisteka
+belch,borpeka
+throw up,varmika
+cough,kaftaka
+sneeze,snizeka
+laugh,glAfika
+hiccup,harkeka
+happy,nanda
+goat,glotina
+buffalo,brufana
+hand,handala
+pen,prenaza
+chocolate,txakoma
+algae,djakana
+fungus,foqgana
+bacteria,poskana
+virus,virsara
+protein,tornara
+tornado,torneda
+molecule,kyulara
+corn,kornema
+lightning,litxera
+thunder,cundara
+comet,kortara
+camp,kampila
+elk,horkena
+caterpillar,klumana
+worm,wormina
+larvae,larvena
+crab,krabina
+rabbit,gramona
+deer,stirina
+wind,windura
+fox,faksana
+moose,xmusana
+eagle,glilina
+hawk,haqkana
+gull,glivana
+sparrow,sparona
+raccoon,drakuna
+dove,druvuna
+crack,krakora
+tiger,tigrana
+river,carvaka
+chicken,klukena
+snail,snalana
+monster,bisteka
+cow,grumana
+land,landapa
+cement,crozela
+meat,flexama
+grain,grenina
+vegetable,varguna
+ant,marxona
+mouse/rat,moskena
+document,doksiza
+book,kriseza
+folder,foldeza
+writing utensil,rendiza
+eye,vistala
+condition (general state),dixa
+language,leqga
+tradition (way of doing things based on past),trada
+community,saqga
+hindrance,blaka
+doubt,dolpa
+pure,pyora
+ego,hamka
+generosity,dalta
+luck,floxa
+fluke,fluka
+go,glona
+supreme (better than all else),primo
+power,polva
+manifest,festa
+absolute,bolsa
+electricity,voltaka
+process,praka
+transient (passes by impermanently),zorka
+world,bruma
+academic,
+administer,
+administrative,
+adult,
+air,
+belt,beltaza
+alphabet,
+amphibian,bampina
+vampiric,vampira
+airport,
+annual,
+annunciate,
+aromatic,
+atmosphere,
+board,
+breathe,
+breeze,brizema
+char (burn to a crisp),
+chant,
+chivalrous,
+chair,
+chemical,
+chew,
+choke,
+chubby,
+conjugate,
+cradle (hold like baby),
+creak,
+crisp,
+inspire,lavori
+evil,hivala
+good,godama
+sacred,sekeda
+polish,palixi
+glory,golara
