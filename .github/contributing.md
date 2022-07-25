@@ -366,6 +366,19 @@ The -a is the object if it is clearly an object, or the result of the action if 
 
 An "association" can be either the result of associating, or a general association between things, so those are two different endings. Likewise, "acceptance" can mean having the nature of accepting, or the actual acceptance.
 
+## Word System
+
+The words are broken into different categories:
+
+- 2-letter (sounds)
+- 3-letter (basic mathematical/computational model)
+- 4-letter-1-syllable (extended mathematical model)
+- 5-letter-1-syllable (taboo words)
+- 5-letter-2-syllable (mind/experience/consciousness model)
+- 6-letter-2-syllable (earth model)
+
+So words like "tree" or "network" or primitive numbers go under the 3-letter words, words like "mind" and "feeling" go under the 4-letter words. Words like "body" or "liquid" go under body model. Words like "grasshopper" go under 5-2-syllable words.
+
 ## Names
 
 You have 3 names:
