@@ -33,7 +33,7 @@ The second thing that can be done is to find word derivations based on these bas
 
 Those two tasks are focusing on English word collection and curation. You can gather words from other languages as it makes sense, as some languages have words for things which English doesn't have a word for. However, we don't want to duplicate the effort as of now in collecting words from every language, we'll save that for a separate project. So this project is mainly focused on "concept" collecting in the more general sense, most of which are in English words already, but some of which may be in other languages.
 
-The third thing that you could quickly help with is taking the initial Tune words which we have provided along with each base word, and writing the Tune word so it matches the English word's part of speech. Or you can take the English words for which there are no Tune words associated, and find the base word to get the base Tune word for it, and then write out the full Tune word to match the part of speech and features of the English word. See the [existing Tune words](https://github.com/drumworkteam/tune/blob/make/list/word/1-syllable/base.csv) for examples of parts of speech translation, like looking how we did the word "create".
+The third thing that you could quickly help with is taking the initial Tune words which we have provided along with each base word, and writing the Tune word so it matches the English word's part of speech. Or you can take the English words for which there are no Tune words associated, and find the base word to get the base Tune word for it, and then write out the full Tune word to match the part of speech and features of the English word.
 
 The final thing you can do is to look for mistakes in the existing translations and English words we've harvested. Many word lists come with junk words, words which don't make any sense, or words that are spelled wrong. If you see any of these, please feel free to let us know, or fix them and send us the updated files, or create a GitHub PR with the associated changes. Always feel free to help contribute to this project in any way you can see fit, that's the main way we can get to where we can see in the future.
 
@@ -147,20 +147,22 @@ That is:
 - `-i` suffix creates a verb.
 - `-a` suffix creates a noun.
 - `-o` suffix creates an adjective or adverb.
+- `-u` suffix creates an anchor or focuser ("swivel")
 
 Things are broken down into 3 categories:
 
 1. Objects (nouns)
 2. Actions (verbs)
 3. Fusions (relations/modifiers like adjectives and adverbs, and determiners and the rest of grammatical parts of speech)
+4. Swivel (pronouns, prepositions, determiners, etc.)
 
 Then we have more complex prefixes and suffixes, like we do with English. In English we have prefixes like "bi-" meaning "two" ("biweekly"), or "un-" meaning something like "not" ("unlikeable"). In English, we also have suffixes like "-tion" meaning something like "the result of applying an action" like "creation", or "or" meaning "the person or thing who performed this action" like "creator". We can do pretty much the same thing in Tune script. However, unlike in English where sometimes the base word is modified before attaching the affix (like "create" drops the "e" to make "creat" before adding the "-or" to make creator), we don't modify the base form at all in Tune. Instead, you simply add the appropriate vowel "separator", depending on if the base is being treated as an "object" (noun), "action" (verb), or "feature" (adjective/adverb), and the appropriate follow-up word. All you are doing is attaching more simpler words onto the base word, separated by vowels. That's pretty much it.
 
 So for example, we have these:
 
 - `bami`: "create"
-- `bamiha`: "created"
-- `bamiho`: "creating"
+- `bamiho`: "created"
+- `bamiha`: "creating"
 - `bama`: "creation"
 - `bamayoga`: "creationism"
 - `bamawa`: "creationist"
