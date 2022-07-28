@@ -381,21 +381,57 @@ The words are broken into different categories:
 
 So words like "tree" or "network" or primitive numbers go under the 3-letter words, words like "mind" and "feeling" go under the 4-letter words. Words like "body" or "liquid" go under body model. Words like "grasshopper" go under 5-2-syllable words.
 
-## Names
+## Loan Words
 
-You have 3 names:
+There are no loan words, all words must be translated to a nice meaning in Tune.
 
-- roughly globally unique name
-- common local name (first and last) *-tribe
-- nick name
+For names, like translating Western names into Chinese, there are two parts, a first name and last name. Each should just be one or two words combined themselves, such as `mego:wolfana skagana` "Great-Wolf Eagle". You can match it to their personality, or their profession, desires, goals, aspirations, hopes, dreams, etc.. Make it simple, elegant, and meaningful. These are "common names".
+
+All names for individual things should have a secondary globally unique slug within a certain "type" context. This is like saying "John Smith the American explorer".
+
+For other words, you can translate them literally if and where it makes sense ("White House" as literally `witrano:hostapa`). For book titles, too, you can name them close to literal meaning or slightly alter them where appropriate. Try and keep proper names (like "World Wide Web") to under 3 separate words (each of which can be 2 or 3 sub-words). So `world-information-network` sort of thing.
+
+As we figure out the ideal name for someone, they might have multiple different names as we add better ones which more nicely capture their essence. So each person has a "main" or "canonical" name, which may be updated as new names are added. But you can always access them by their old name.
+
+- english: `higlexowa` (angle)
+- arabic: `dizartowa` (desert)
+- jewish: `djuwixowa` (celebrated)
+- islamic: `hizlamowa` (submission)
+- buddhist: `budistowa` (enlightened)
+- hindu: `hinduzowa` (river)
+- sikh: `siksanowa` (disciple)
+- zoroastrian: `vrido:karzanowa` (old camel)
+- taoist: `bweno:pacowa` (good path)
+- christian: `krisanowa` (anointed)
+- believer: `blivowa`
+- clam: `klamona`
 
 ## Numbers
 
-Numbers are written using the consonant symbols prefixed by a u. Instead of infix notation for addition and the rest, you use function notation like with programming languages.
+Numbers are written using the consonant symbols prefixed by a "a" for decimal and "i" for hexadecimal. Instead of infix notation for addition and the rest, you use function notation like with programming languages.
+
+1. `han` (`h`)
+1. `zen` (`z`)
+1. `dob` (`d`)
+1. `san` (`s`)
+1. `laf` (`l`)
+1. `kam` (`k`)
+1. `viv` (`v`)
+1. `xab` (`x`)
+1. `fet` (`f`)
+1. `nas` (`n`)
+1. `bid` (`b`)
+1. `cuk` (`c`)
+1. `mod` (`m`)
+1. `raf` (`r`)
+1. `tic` (`t`)
+1. `wez` (`w`)
+
+So the number 102 in decimal is `azhd`, and 24 in hexademical is `izf` (0x18).
 
 ## Punctuation
 
-You have () parentheses and \<\> quotes and the slash / for how you would use them in English.
+You have () parentheses and \<\> quotes and the slash / for how you would use them in English. The colon `:` is for combining words into a single whole.
 
 ## Summary
 
