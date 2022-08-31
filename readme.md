@@ -7,11 +7,11 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/teamdrumwork/tune/blob/make/view/make.svg?raw=true' height='312'/>
+  <img src='https://github.com/teamdrumwork/term/blob/make/view/make.svg?raw=true' height='312'/>
 </p>
 
 <h3 align='center'>
-  tune
+  term
 </h3>
 <p align='center'>
   An Intermediate Constructed Language
@@ -23,15 +23,15 @@
 
 <h3 id="summary">Summary</h3>
 
-_Note: Tune is just in the prototype phases right now._
+_Note: Term is just in the prototype phases right now._
 
-Tune is a [#conlang](https://en.wikipedia.org/wiki/Constructed_language) ("constructed language") that takes influence from English, Mandarin Chinese, Spanish, Sanskrit, Vietnamese, Hebrew, Arabic, Japanese, Tamil, and Hawaiian. Words are typically derived from English, though a few come from these other languages. Its phonology (i.e. the sounds it uses) is quite simple, only consisting of 19 simple consonant sounds and 5 basic vowel sounds. It is a mostly "analytic" language, meaning that pretty much everything is divided into words instead of having word inflections or word morphology changes. However we have taken the opportunity in a few cases to compress some words by shortening them and making them into suffixes, for extremely common paradigms like using verbs in the past tense. In addition, you can form words by joining them together separated by an appropriate vowel, so it is in a sense fusional and agglutinative as well to a small degree. There are no tones (like in Chinese), or clicks, like in some African languages.
+Term is a [#conlang](https://en.wikipedia.org/wiki/Constructed_language) ("constructed language") that takes influence from English, Mandarin Chinese, Spanish, Sanskrit, Vietnamese, Hebrew, Arabic, Japanese, Tamil, and Hawaiian. Words are typically derived from English, though a few come from these other languages. Its phonology (i.e. the sounds it uses) is quite simple, only consisting of 19 simple consonant sounds and 5 basic vowel sounds. It is a mostly "analytic" language, meaning that pretty much everything is divided into words instead of having word inflections or word morphology changes. However we have taken the opportunity in a few cases to compress some words by shortening them and making them into suffixes, for extremely common paradigms like using verbs in the past tense. In addition, you can form words by joining them together separated by an appropriate vowel, so it is in a sense fusional and agglutinative as well to a small degree. There are no tones (like in Chinese), or clicks, like in some African languages.
 
-One goal of tune is to create a language which can be used for programming (using very short words), and for speaking at the same time. The end goal is to define words that will help you think holistically about the universe and see its beautiful structure in great detail and clarity, to the point where you are so capable of seeing it that you can also read it in code. Code is highly structured information that is ideally unambiguous, so seeing the universe as code would be an extraordinary thing.
+One goal of term is to create a language which can be used for programming (using very short words), and for speaking at the same time. The end goal is to define words that will help you think holistically about the universe and see its beautiful structure in great detail and clarity, to the point where you are so capable of seeing it that you can also read it in code. Code is highly structured information that is ideally unambiguous, so seeing the universe as code would be an extraordinary thing.
 
 First we will outline the phonology in more detail so you know what to expect and how to write the words on a typical keyboard in ASCII. Next, we will go into some of the basic word forms and show you how to construct some basic words. Finally, we will show how we can build up the lexicon to eventually include all of the millions of English words in existence, from molecules to life forms to locations, etc..
 
-See the [contributing guide](https://github.com/teamdrumwork/tune/blob/make/.github/contributing.md) for the intricate details on how things work, and how to contribute.
+See the [contributing guide](https://github.com/teamdrumwork/term/blob/make/.github/contributing.md) for the intricate details on how things work, and how to contribute.
 
 ### Knowledge Representation
 
@@ -91,7 +91,7 @@ The words like "the", "a", "this", and "that" are focusers. They focus attention
 
 ### Basic Sentences
 
-_Note: A more up-to-date translation of some sentences should be found [here](https://github.com/teamdrumwork/tune/blob/make/list/sentence/full.csv)._
+_Note: A more up-to-date translation of some sentences should be found [here](https://github.com/teamdrumwork/term/blob/make/list/sentence/full.csv)._
 
 Sentences follow the SVO subject-verb-object format. Modifiers/features/adjectives precede the main verb or noun.
 
@@ -137,4 +137,4 @@ limitations under the License.
 
 <h3 id="mount">DrumWork</h3>
 
-The tune language is being developed by the folks at [DrumWork](https://drum.work), a California-based project for helping humanity master information and computation. DrumWork started off in the winter of 2008 as a spark of an idea, to formalizing the work 10 years later in the winter of 2018, now just beginning its development phases. DrumWork funds the development here. It is entirely bootstrapped by working full time and running [Etsy](https://etsy.com/shop/teamdrumwork) and [Amazon](https://www.amazon.com/s?rh=p_27%3AMount+Build) shops. Also find us on [Facebook](https://www.facebook.com/teamdrumwork), [Twitter](https://twitter.com/teamdrumwork), and [LinkedIn](https://www.linkedin.com/company/teamdrumwork). Check out our other GitHub projects as well!
+The term language is being developed by the folks at [DrumWork](https://drum.work), a California-based project for helping humanity master information and computation. DrumWork started off in the winter of 2008 as a spark of an idea, to formalizing the work 10 years later in the winter of 2018, now just beginning its development phases. DrumWork funds the development here. It is entirely bootstrapped by working full time and running [Etsy](https://etsy.com/shop/teamdrumwork) and [Amazon](https://www.amazon.com/s?rh=p_27%3AMount+Build) shops. Also find us on [Facebook](https://www.facebook.com/teamdrumwork), [Twitter](https://twitter.com/teamdrumwork), and [LinkedIn](https://www.linkedin.com/company/teamdrumwork). Check out our other GitHub projects as well!
